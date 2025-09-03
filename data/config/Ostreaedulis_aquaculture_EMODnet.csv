@@ -1,0 +1,894 @@
+lon;lat;OBJECTID;COUNTRY;OWNER_NAME;AREA_NAME;STATUS;FARM_TYPE;PRODUCTION_METHOD;PRODUCTION_STAGE;SPECIES;PURPOSE;PRODUCTS_DETAIL;POINT_INFO;POINT_DEFINITION;SITE_ID;COAST_DIST_M;POSITION_COASTLINE
+4.90448300000003;60.5173500000001;1676;Norway;SCALMARIN AS, SCALPRO AS;n.a.;Active;Mixed (other);n.a.;Broodstock, Grow out for human consumption, Hatchery, Nursery;European flat oyster;Commercial;Ballan wrasse, Blue mussel, Islandic scallop, Queen scallop, Cockles nei, Razor shell, Ocean quahog, Northern horse mussel, Grooved carpet shell, Sand gaper, Great scallops (Scallops), European flat oyster;Original;Farm;NW_0038;0.053300941335415;Within the coastline
+6.99915000000004;58.051367;1773;Norway;LANDBASERT AKVAKULTUR NORGE AS;n.a.;Active;Mixed (other);n.a.;Hatchery, Nursery, Other;European flat oyster;Commercial;Ballan wrasse, Nori nei, North Atlantic rockweed, North Atlantic rockweed, Queen scallop, Sea lettuce, Cockles nei, Scallop, Ocean quahog, Northern horse mussel, Other, Sea belt, Dulse, Corrugated venus/Pullet carpet shell, European flat oyster;Original;Farm;NW_0179;77.48528614;Within the coastline
+5.37015000000002;59.6412000000001;1706;Norway;Stangeland  Bjarne  Kristoffer;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, Babberlocks, Tangle, Great scallops (Scallops), Sea belt, Pink laver, European flat oyster;Original;Farm;NW_0070;1.3369537996006;At sea
+5.10901700000005;59.8732670000001;1672;Norway;ØKLAND SKJELL DA;n.a.;Active;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, European flat oyster;Original;Farm;NW_0034;56.2184132828776;At sea
+6.30411700000008;62.0591610000001;1683;Norway;HØYDALSVIK  RAGNAR;n.a.;Active;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, European flat oyster;Original;Farm;NW_0044;37.1371048818879;At sea
+6.30585000000002;62.059333;1684;Norway;HØYDALSVIK  RAGNAR;n.a.;Active;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, European flat oyster;Original;Farm;NW_0045;49.6358420202872;At sea
+5.26742300000006;61.9882850000001;1715;Norway;VENØ  OLAV JOHANNES;n.a.;Active;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, European flat oyster;Original;Farm;NW_0080;64.1757464945832;At sea
+8.44043300000004;58.2679000000001;1738;Norway;HOELFELDT  LUND PER CHR;n.a.;Active;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, European flat oyster;Original;Farm;NW_0108;24.1422580549679;At sea
+7.85366700000003;58.055417;1700;Norway;Berge  Rolf Rikard;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, Great scallops (Scallops), European flat oyster;Original;Farm;NW_0060;62.310241812032;At sea
+7.85955000000007;58.0653170000001;1701;Norway;SJØFRAKT SØR AS;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, Great scallops (Scallops), European flat oyster;Original;Farm;NW_0061;135.363186938087;At sea
+8.29236700000007;58.20935;1702;Norway;HOELFELDT  LUND PER CHR;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, Great scallops (Scallops), European flat oyster;Original;Farm;NW_0062;101.423834709958;At sea
+5.72214500000007;59.7426110000001;1707;Norway;ROBBERSTAD  SIGVALD;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, Great scallops (Scallops), European flat oyster;Original;Farm;NW_0071;77.437465791488;At sea
+6.18465000000003;58.838733;1677;Norway;EWOS INNOVATION AS;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, Noble crayfish, Islandic scallop, Queen scallop, Great scallops (Scallops), Northern horse mussel, Grooved carpet shell, Sand gaper, Common edible cockle, European flat oyster;Original;Farm;NW_0039;52.0218010680694;Within the coastline
+7.09205400000008;61.2102300000001;1682;Norway;FJORD FORSK SOGN AS;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, Queen scallop, European lobster, Great scallops (Scallops), Whelk, Norway lobster, European flat oyster;Original;Farm;NW_0043;201.424526231308;At sea
+6.10740000000004;58.861767;1709;Norway;ASPØY HAVBRUK AS;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Blue mussel, Sea belt, European flat oyster;Original;Farm;NW_0073;119.601620258802;At sea
+-5.30563232899993;56.454954;24;United Kingdom;Muckairn Mussels;n.a.;Active;Oysters;Rafts;Hatchery;European flat oyster;n.a.;Common mussel, Flat or native oyster, Pacific Oyster;Original;Farm;UK_0078;33.7600251919973;At sea
+5.24933300000004;59.8311330000001;1637;Norway;AGA MUSLING EIVIND BERGTUN & SIGURD MONSVIK;n.a.;Active;Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;European flat oyster;Original;Farm;NW_0002;73.1678437000361;At sea
+4.80179700000002;60.6289990000001;1638;Norway;PEDERSEN  JAN PER;n.a.;Active;Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;European flat oyster;Original;Farm;NW_0003;30.9943602883079;Within the coastline
+5.24711700000006;59.8398500000001;1666;Norway;AGA ØSTERSKOMPANI AS;n.a.;Active;Oysters;n.a.;Nursery;European flat oyster;Commercial;European flat oyster;Original;Farm;NW_0030;60.8223444320023;At sea
+5.24801700000006;59.8009670000001;1667;Norway;BERGTUN  EIVIND;n.a.;Active;Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;European flat oyster;Original;Farm;NW_0031;8.88316601886561;At sea
+5.24655000000007;59.7575330000001;1668;Norway;VEDØY  BIRGITTA;n.a.;Active;Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;European flat oyster;Original;Farm;NW_0032;127.289277881563;At sea
+5.24368300000003;59.756333;1669;Norway;VEDØY  BIRGITTA;n.a.;Active;Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;European flat oyster;Original;Farm;NW_0033;78.1390581622925;At sea
+4.89071700000005;60.5177170000001;1741;Norway;HOTATE AS;n.a.;Active;Oysters;n.a.;Grow out for human consumption;European flat oyster;Commercial;European flat oyster;Original;Farm;NW_0110;72.3258876072832;At sea
+5.41127100000006;60.149731;1751;Norway;STORESTRAUMEN ØSTERS AS;n.a.;Active;Oysters;n.a.;Nursery;European flat oyster;Commercial;European flat oyster;Original;Farm;NW_0125;238.305069918041;At sea
+-5.56370760699997;56.1591960000001;274;United Kingdom;Loch Craignish Native Oyster Restoration;n.a.;Active;Oysters;Long Lines;Grow out for human consumption;European flat oyster;n.a.;Flat or native oyster;Original;Farm;UK_0467;86.5875687414449;At sea
+-5.53041481799994;56.182629923;275;United Kingdom;Loch Craignish Native Oyster Restoration;n.a.;Active;Oysters;Trestles or trays;Grow out for human consumption;European flat oyster;n.a.;Flat or native oyster;Original;Farm;UK_0468;86.4977161720642;At sea
+-5.03841439099995;54.9461204680001;285;United Kingdom;The Loch Ryan Oyster Fishery Co Ltd;n.a.;Active;Oysters;Beds;Grow out for human consumption;European flat oyster;n.a.;Flat or native oyster;Original;Farm;UK_0273;1990.647143451;At sea
+-5.46560433799993;56.5000331040001;344;United Kingdom;Scottish Association for Marine Science;n.a.;Active;Oysters;Long Lines;Grow out for human consumption;European flat oyster;n.a.;Flat or native oyster;Original;Farm;UK_0471;601.036614356314;At sea
+-2.89687691599994;58.8851395990001;21;United Kingdom;Orkney Shellfish Hatchery (OSH) Ltd;n.a.;Active;Oysters;n.a.;Hatchery;European flat oyster;n.a.;Flat or native oyster, European lobster;Original;Farm;UK_0245;25.0653788450985;Within the coastline
+-8.85593166699994;42.519615;2669;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2732;708.64424549276;At sea
+-8.85586166699994;42.5204236110001;2681;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2752;726.255239793298;At sea
+-8.85241416699995;42.5203422220001;2684;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2749;1004.3748968937;At sea
+-8.85703416699994;42.5201813890001;2687;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2746;626.614777513544;At sea
+-8.85234388899994;42.521150833;2697;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2768;1025.62248698689;At sea
+-8.84889638899995;42.5210691670001;2699;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2766;1302.07317232654;At sea
+-8.85696388899993;42.52099;2700;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2765;654.368613285991;At sea
+-8.85351638899994;42.520908611;2702;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2763;925.798777533352;At sea
+-8.85461888899994;42.5214747220001;2705;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2776;854.220172909766;At sea
+-8.85117138899994;42.521393333;2708;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2773;1125.4825921644;At sea
+-8.85227361099993;42.5219594440001;2713;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2784;1054.14608984667;At sea
+-8.84537861099994;42.521796389;2715;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;n.a.;Flat oyster (Ostrea edulis);Original;Farm;ES_2782;1360.65019318393;At sea
+-8.85344638899994;42.521716944;2716;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2781;954.163183563948;At sea
+-8.84999999999997;42.521635556;2719;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2778;1225.26939341347;At sea
+-8.84655138899996;42.5215538890001;2720;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2777;1453.13046500005;At sea
+-8.84992861099994;42.5224441670001;2721;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2792;1250.55435065881;At sea
+-8.85110111099993;42.522201667;2725;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2788;1154.10461139189;At sea
+-8.85916833299996;42.522123333;2726;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2787;545.63009243918;At sea
+-8.84420611099995;42.522038611;2728;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2785;1269.33270719105;At sea
+-8.84758333299993;42.5229288890001;2801;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2799;1416.46768202851;At sea
+-8.84413583299994;42.5228472220001;2802;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2798;1281.34272040955;At sea
+-8.84875611099994;42.5226863890001;2804;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2796;1333.3160861841;At sea
+-8.84530833299993;42.5226050000001;2805;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2795;1369.69250470001;At sea
+-8.85675333299997;42.5234177780001;2809;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2807;689.517127911903;At sea
+-8.84523805599997;42.5234133330001;2810;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2806;1384.52696073122;At sea
+-8.84641083299994;42.5231711110001;2813;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2803;1471.48016430527;At sea
+-8.85096055599996;42.5238200000001;2818;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2814;1122.28712404832;At sea
+-8.84751305599997;42.5237377780001;2819;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2813;1398.13184812925;At sea
+-8.85433777799994;42.5247122220001;2824;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2824;828.312646583677;At sea
+-8.84744277799996;42.5245469440001;2826;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2822;1385.40644837055;At sea
+-8.84399527799997;42.524464444;2827;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2821;1323.50994521685;At sea
+-8.85206305599996;42.524387222;2828;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2820;1018.10856447203;At sea
+-8.84171916699995;42.5241405560001;2831;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2817;1136.61782780071;At sea
+-8.84157861099993;42.5257586110001;2833;Spain;n.a.;n.a.;Active;Oysters;Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2831;1207.48800016635;At sea
+-8.84619972199994;42.525598889;2834;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2830;1471.75087457556;At sea
+-8.85316527799995;42.5249544440001;2837;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2827;915.390003097494;At sea
+-8.96043472199995;42.7779530560001;4521;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2229;173.077704039927;At sea
+-8.95936027799996;42.778382778;4530;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_2236;154.570232908118;At sea
+-8.85162499999996;42.501246667;5104;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_0448;487.383873608333;At sea
+-8.85421083299997;42.5014644440001;5114;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Restocking;Flat oyster (Ostrea edulis);Original;Farm;ES_0454;699.48643704803;At sea
+-8.85397083299995;42.5007661110001;5507;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_1026;667.183328873148;At sea
+-8.85466361099998;42.499129167;5694;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_0985;564.808924156271;At sea
+-8.85514333299994;42.500525833;5851;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_1020;657.505166377731;At sea
+-8.68056861099996;42.2821519440001;5941;Spain;n.a.;n.a.;Active;Oysters;Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_1136;358.018262615334;At sea
+-8.68056499999994;42.2828725000001;5949;Spain;n.a.;n.a.;Active;Oysters;Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_1144;302.847929289466;At sea
+-8.67864305599994;42.2838166670001;5971;Spain;n.a.;n.a.;Active;Oysters;Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_1154;314.124044682086;At sea
+-8.67671694399996;42.285481389;5986;Spain;n.a.;n.a.;Active;Oysters;Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_1171;269.791280648998;At sea
+-8.67383833299994;42.286177222;5991;Spain;n.a.;n.a.;Active;Oysters;Rafts;n.a.;European flat oyster;n.a.;Flat oyster (Ostrea edulis);Original;Farm;ES_1182;467.460023534032;At sea
+-8.27693361099995;43.388308056;6400;Spain;n.a.;n.a.;Active;Oysters;Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis);Original;Farm;ES_3807;223.712532738106;At sea
+-8.80967833299997;42.5865025000001;3090;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;n.a.;Flat oyster (Ostrea edulis), Great scallop (Pecten maximus), Variegated scallop (Mimachlamys varia);Original;Farm;ES_3086;852.133142522198;At sea
+-8.84448749999996;42.5188030560001;2771;Spain;n.a.;n.a.;Active;Mussels-Oysters;Rafts;n.a.;European flat oyster;n.a.;Flat oyster (Ostrea edulis), Mussels (Mytilus galloprovincialis);Original;Farm;ES_2710;1284.78521925977;At sea
+-8.85454861099993;42.5222841670001;2723;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis), Pullet carpet shell (Venerupis corrugata), Japanese carpet shell (Ruditapes philippinarum), Grooved carpet shell (Ruditapes decussatus);Original;Farm;ES_2790;890.721070452108;At sea
+-8.85337611099993;42.5225263890001;2807;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis), Pullet carpet shell (Venerupis corrugata), Japanese carpet shell (Ruditapes philippinarum), Grooved carpet shell (Ruditapes decussatus);Original;Farm;ES_2793;983.026553248077;At sea
+-8.85330583299998;42.523335278;2811;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis), Pullet carpet shell (Venerupis corrugata), Japanese carpet shell (Ruditapes philippinarum), Grooved carpet shell (Ruditapes decussatus);Original;Farm;ES_2805;956.083011960856;At sea
+-8.85447833299997;42.5230930560001;2814;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis), Pullet carpet shell (Venerupis corrugata), Japanese carpet shell (Ruditapes philippinarum), Grooved carpet shell (Ruditapes decussatus);Original;Farm;ES_2802;875.130025476001;At sea
+-8.85213333299993;42.5235777780001;2823;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;Commercial;Flat oyster (Ostrea edulis), Pullet carpet shell (Venerupis corrugata), Japanese carpet shell (Ruditapes philippinarum), Grooved carpet shell (Ruditapes decussatus);Original;Farm;ES_2809;1038.85090988895;At sea
+-8.84303361099995;42.522280833;2724;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;Grow out for human consumption;European flat oyster;Commercial;Flat oyster (Ostrea edulis), Queen scallop (Aequipecten opercularis);Original;Farm;ES_2789;1179.42403477633;At sea
+5.40655000000004;59.0449170000001;1665;Norway;KVITSØY EDELSKJELL AS;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption, Nursery;European flat oyster;Commercial;Great scallops (Scallops), European flat oyster;Original;Farm;NW_0029;154.289500540487;At sea
+5.33136700000006;59.97;1739;Norway;SANDVIK  SVERRE EIVIND;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Great scallops (Scallops), European flat oyster;Original;Farm;NW_0109;71.0444952789992;At sea
+5.07793300000003;59.8105330000001;1750;Norway;ØKLAND SKJELL DA;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Great scallops (Scallops), European flat oyster;Original;Farm;NW_0124;15.4431037857045;At sea
+-8.80010194399995;42.245190833;4510;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;n.a.;Grooved carpet shell (Ruditapes decussatus), Pullet carpet shell (Venerupis corrugata), Flat oyster (Ostrea edulis);Original;Farm;ES_1944;543.7596176125;At sea
+-8.84786444399998;42.519693611;2668;Spain;n.a.;n.a.;Active;Mussels-Oysters;Rafts;n.a.;European flat oyster;n.a.;Mussels (Mytilus galloprovincialis), Flat oyster (Ostrea edulis);Original;Farm;ES_2733;1370.77321239705;At sea
+-8.84711361099994;42.515083056;5294;Spain;n.a.;n.a.;Active;Mussels-Oysters;Rafts;n.a.;European flat oyster;Commercial;Mussels (Mytilus galloprovincialis), Flat oyster (Ostrea edulis);Original;Farm;ES_0681;1501.14493697448;At sea
+-8.92072388899993;42.6101869440001;6187;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;Grow out for human consumption, Nursery;European flat oyster;Commercial;Queen scallop (Aequipecten opercularis), Flat oyster (Ostrea edulis), Variegated scallop (Mimachlamys varia), Pullet carpet shell (Venerupis corrugata), Japanese carpet shell (Ruditapes philippinarum);Original;Farm;ES_3460;737.98374924221;At sea
+5.09300500000006;59.808094;1736;Norway;VEST I HAVET AS;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption;European flat oyster;Commercial;Queen scallop, Great scallops (Scallops), Sea urchin, Periwinkle, Variegated scallop, European flat oyster;Original;Farm;NW_0106;84.3752511846862;At sea
+4.91790000000003;60.5163000000001;1673;Norway;SCALPRO AS;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption, Other;European flat oyster;Commercial;Saccorhiza dermatodea **, Babberlocks, Saccorhiza polyschides, Tangle, Alaria pylaiei **, Great scallops (Scallops), Bootlace weed, Sea squirts, North European kelp, Sea belt, European flat oyster;Original;Farm;NW_0035;204.928018265355;At sea
+4.91464000000002;60.5183200000001;1674;Norway;SCALPRO AS;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption, Other;European flat oyster;Commercial;Saccorhiza dermatodea **, Babberlocks, Saccorhiza polyschides, Tangle, Alaria pylaiei **, Great scallops (Scallops), Bootlace weed, Sea squirts, North European kelp, Sea belt, European flat oyster;Original;Farm;NW_0036;34.5991758193288;At sea
+4.90756700000003;60.518467;1675;Norway;SCALPRO AS;n.a.;Active;Mixed (other);n.a.;Grow out for human consumption, Other;European flat oyster;Commercial;Saccorhiza dermatodea **, Babberlocks, Saccorhiza polyschides, Tangle, Alaria pylaiei **, Great scallops (Scallops), Bootlace weed, Sea squirts, North European kelp, Sea belt, European flat oyster;Original;Farm;NW_0037;62.1149813327436;At sea
+-8.67191222199995;42.287841944;5865;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;Commercial;Variegated scallop (Mimachlamys varia), Flat oyster (Ostrea edulis), Great scallop (Pecten maximus);Original;Farm;ES_1193;297.329882736891;At sea
+-8.67575583299993;42.285953611;5981;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;n.a.;Variegated scallop (Mimachlamys varia), Flat oyster (Ostrea edulis), Great scallop (Pecten maximus);Original;Farm;ES_1176;318.907560137904;At sea
+-8.67671305599993;42.286201944;5990;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;Commercial;Variegated scallop (Mimachlamys varia), Flat oyster (Ostrea edulis), Great scallop (Pecten maximus);Original;Farm;ES_1183;235.349181207407;At sea
+-8.85813638899998;42.5207475;2704;Spain;n.a.;n.a.;Active;Mixed (other);Rafts;n.a.;European flat oyster;n.a.;Variegated scallop (Mimachlamys varia), Pullet carpet shell (Venerupis corrugata), Flat oyster (Ostrea edulis), Great scallop (Pecten maximus), Queen scallop (Aequipecten opercularis), Japanese carpet shell (Ruditapes philippinarum);Original;Farm;ES_2761;554.475865552467;At sea
+-9.04565295599997;52.6347640540001;820;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;European flat oyster;n.a.;Oysters,Native Oyster,Blue Mussel;Polygon centroid;Farm;IE_0247;143.389597902169;At sea
+-9.79237532999997;51.765579417;1547;Ireland;n.a.;n.a.;Licensed;Specialised (other);n.a.;n.a.;European flat oyster;n.a.;Oysters,Oysters Native;Polygon centroid;Farm;IE_1032;30.3398944006169;At sea
+-9.60862560599998;51.8628577090001;739;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;European flat oyster;n.a.;Oysters,Oysters Native,Mussels;Polygon centroid;Farm;IE_0983;14.8752644039208;Within the coastline
+9.13895952000007;56.688035611;470;Denmark;Kaj-Lykke Larsen;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Blue Mussel, European Flat Oyster;Original;Farm;DK_0007;376.775619572949;At sea
+8.83303096300006;56.6980991790001;471;Denmark;Mytiline Aps;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Blue Mussel, European Flat Oyster;Original;Farm;DK_0009;707.186868380354;At sea
+8.88763950300006;56.7684233260001;479;Denmark;Mytiline Aps;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Blue Mussel, European Flat Oyster;Original;Farm;DK_0019;207.255123827175;At sea
+8.88100372400004;56.766404793;480;Denmark;Mytiline Aps;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Blue Mussel, European Flat Oyster;Original;Farm;DK_0021;258.063029925185;At sea
+8.85110132200003;56.8361048470001;481;Denmark;Mytiline Aps;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Blue Mussel, European Flat Oyster;Original;Farm;DK_0023;591.130725943319;At sea
+8.64679594300003;56.909356626;496;Denmark;Mytiline Aps;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Blue Mussel, European Flat Oyster;Original;Farm;DK_0041;441.177575692713;At sea
+10.59551836;56.2161580120001;506;Denmark;Havhaver i Syddjurs Kommune;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Blue Mussel, European Flat Oyster;Original;Farm;DK_0053;685.58269806443;At sea
+8.88614813400005;56.7959813400001;509;Denmark;Peter Thøger Stenbro;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Blue Mussel, European Flat Oyster;Original;Farm;DK_0057;434.673514962256;At sea
+8.30128893800003;56.586049459;498;Denmark;Oyster Boat Aps;n.a.;n.a.;Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;European Flat Oyster;Original;Farm;DK_0044;284.949695755441;At sea
+8.30701732500006;56.5545496030001;507;Denmark;Oyster Boat Aps;n.a.;n.a.;Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;European Flat Oyster;Original;Farm;DK_0055;60.2417040243725;At sea
+8.53703813600004;56.585175201;517;Denmark;Danish Oysters Aps;n.a.;n.a.;Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;European Flat Oyster;Original;Farm;DK_0068;120.571940372758;At sea
+24.332222222;40.8627777780001;538;Greece;ALEKSANDRIDIS IORDANIS;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Mytilus galloprovincialis,Oestrea edulis;Original;Farm;EL_0020;181.606236131262;At sea
+22.6091666670001;38.8500000000001;552;Greece;CATHRIN FISH S.A.;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Mytilus galloprovincialis,Oestrea edulis;Original;Farm;EL_0034;1402.1789912327;At sea
+22.642777778;38.837222222;559;Greece;DIMITRIOS GIANNOPOULOS;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Mytilus galloprovincialis,Oestrea edulis;Original;Farm;EL_0041;712.389895301229;At sea
+20.768055556;39.019722222;574;Greece;FOTINI TSOTSIOU;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Mytilus galloprovincialis,Oestrea edulis;Original;Farm;EL_0056;1114.53336284837;At sea
+23.8219444440001;40.774166667;627;Greece;OSTRAKA-IPPOKAMPOS LTD;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Mytilus galloprovincialis,Oestrea edulis;Original;Farm;EL_0109;470.444581495086;At sea
+25.1202777780001;40.9855555560001;640;Greece;PAPTSIKIS-FRAINJEL MARKOS;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Mytilus galloprovincialis,Oestrea edulis;Original;Farm;EL_0122;1097.51069518775;At sea
+22.6222222220001;38.842777778;648;Greece;PETROPOULOS ANDREAS;n.a.;n.a.;Mussels-Oysters;n.a.;Grow out for human consumption;European flat oyster;n.a.;Mytilus galloprovincialis,Oestrea edulis;Original;Farm;EL_0130;902.816842455165;At sea
+-6.06100477899997;56.6249518050001;342;United Kingdom;Tobermory Oysters;n.a.;Active;Oysters;Trestles or trays;Grow out for human consumption;European flat oyster, Pacific oyster;n.a.;Flat or native oyster, King scallop, Pacific Oyster, Common mussel;Original;Farm;UK_0332;110.805706823057;At sea
+-5.78353425999995;56.7047420700001;390;United Kingdom;Sunart Sea Farm Ltd;n.a.;Active;Clams;Long Lines;Hatchery;European flat oyster, Pacific oyster;n.a.;Flat or native oyster, King scallop, Pacific Oyster, Queen Scallop, Common mussel;Original;Farm;UK_0380;124.839249275535;At sea
+-7.37326470799997;57.0034540560001;135;United Kingdom;Traigh Mhor Oysters;n.a.;Active;Oysters;Rafts;Hatchery;European flat oyster, Pacific oyster;n.a.;Flat or native oyster, Pacific Oyster;Original;Farm;UK_0196;225.046076716205;At sea
+-5.38703032499996;56.512091974;365;United Kingdom;The Caledonian Oyster Company;n.a.;Active;Oysters;Trestles or trays;Grow out for human consumption, Nursery;European flat oyster, Pacific oyster;n.a.;Flat or native oyster, Pacific Oyster;Original;Farm;UK_0354;158.664106963877;At sea
+-5.85988019699994;56.779725962;409;United Kingdom;Measan Na Mara (Fruit of the Sea) Ltd;n.a.;Active;Oysters;Trestles or trays;Hatchery;European flat oyster, Pacific oyster;n.a.;Flat or native oyster, Pacific Oyster;Original;Farm;UK_0401;130.009748213172;At sea
+-5.23343085799996;57.847440088;261;United Kingdom;Charron Ltd;n.a.;Active;Oysters;Trestles or trays;Hatchery;European flat oyster, Pacific oyster;n.a.;Flat or native oyster, Pacific Oyster, Common mussel;Original;Farm;UK_0250;359.680485157846;At sea
+-5.45708882299994;56.495775495;16;United Kingdom;Lochnell Oysters;n.a.;Active;Mixed (other);n.a.;n.a.;European flat oyster, Pacific oyster;n.a.;Flat or native oyster, Pacific Oyster, Common mussel, Purple sea urchin;Original;Farm;UK_0373;119.4360587206;Within the coastline
+-8.85820666699993;42.5199388890001;2677;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Flat oyster (Ostrea edulis), Pacific oysters (Magallana gigas);Original;Farm;ES_2740;527.102625986202;At sea
+-8.85710416699993;42.5193725;2788;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Flat oyster (Ostrea edulis), Pacific oysters (Magallana gigas);Original;Farm;ES_2725;610.99129030725;At sea
+-8.84289277799996;42.5238980560001;2817;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Flat oyster (Ostrea edulis), Pacific oysters (Magallana gigas);Original;Farm;ES_2815;1216.69081611401;At sea
+-8.84406555599998;42.5236555560001;2821;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Flat oyster (Ostrea edulis), Pacific oysters (Magallana gigas);Original;Farm;ES_2811;1299.47679200652;At sea
+-8.85199277799995;42.5251969440001;2836;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Flat oyster (Ostrea edulis), Pacific oysters (Magallana gigas);Original;Farm;ES_2828;1004.86740975344;At sea
+-8.85538388899994;42.501224167;5105;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Flat oyster (Ostrea edulis), Pacific oysters (Magallana gigas);Original;Farm;ES_0447;712.831748514719;At sea
+-8.84973194399993;42.4993925000001;5689;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Flat oyster (Ostrea edulis), Pacific oysters (Magallana gigas);Original;Farm;ES_0990;324.137511198171;At sea
+-8.85255777799995;42.5003083330001;5842;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Flat oyster (Ostrea edulis), Pacific oysters (Magallana gigas);Original;Farm;ES_1013;547.39780188956;At sea
+-5.75819448999994;56.696518659;406;United Kingdom;Sunart Sea Farm Ltd;n.a.;Active;Clams;Rafts;Hatchery;European flat oyster, Pacific oyster;n.a.;King scallop, Common mussel, Queen Scallop, Flat or native oyster, Pacific Oyster;Original;Farm;UK_0397;133.421436547903;At sea
+-2.44833333299994;43.356497222;6592;Spain;n.a.;n.a.;Active;Mixed (other);Long Lines, Rafts;n.a.;European flat oyster, Pacific oyster;Research;Mussels (Mytilus galloprovincialis), Variegated scallop (Mimachlamys varia), Flat oyster (Ostrea edulis), Pacific oysters (Magallana gigas);Original;Farm;ES_0242;1998.16189233864;At sea
+-4.79992875699998;58.5568847170001;13;United Kingdom;Cowrie Associates Ltd;n.a.;Active;Oysters;Trestles or trays;Hatchery;European flat oyster, Pacific oyster;n.a.;Pacific Oyster, Flat or native oyster;Original;Farm;UK_0233;839.246658732044;Within the coastline
+-4.41591997799998;58.498197098;14;United Kingdom;Kyle of Tongue Oysters Ltd;n.a.;Active;Oysters;Trestles or trays;Hatchery;European flat oyster, Pacific oyster;n.a.;Pacific Oyster, Flat or native oyster;Original;Farm;UK_0242;1520.10245197099;Within the coastline
+-7.42452020099995;57.0156364530001;34;United Kingdom;Traigh Mhor Oysters;n.a.;Active;Oysters;Trestles or trays;Grow out for human consumption, Nursery;European flat oyster, Pacific oyster;n.a.;Pacific Oyster, Flat or native oyster;Original;Farm;UK_0088;113.730524275326;At sea
+-6.32189972799995;55.8507483990001;165;United Kingdom;G. & J. Archibald;n.a.;Active;Oysters;Trestles or trays;Grow out for human consumption, Nursery;European flat oyster, Pacific oyster;n.a.;Pacific Oyster, Flat or native oyster;Original;Farm;UK_0229;153.22703189912;At sea
+-5.18280249799994;57.9421961250001;283;United Kingdom;Ockran Oysters;n.a.;Active;Oysters;Trestles or trays;Hatchery;European flat oyster, Pacific oyster;n.a.;Pacific Oyster, Flat or native oyster;Original;Farm;UK_0271;96.7678230255609;At sea
+-1.29742290199994;60.2441095390001;305;United Kingdom;C.W.C Brown Ltd;n.a.;Active;Oysters;Trestles or trays;Grow out for human consumption, Nursery;European flat oyster, Pacific oyster;n.a.;Pacific Oyster, Flat or native oyster;Original;Farm;UK_0469;88.3757384498592;At sea
+-5.60593080799993;57.3905905570001;375;United Kingdom;Seafield Oysters;n.a.;Active;Oysters;Trestles or trays;Grow out for human consumption, Nursery;European flat oyster, Pacific oyster;n.a.;Pacific Oyster, Flat or native oyster;Original;Farm;UK_0364;327.898734347355;At sea
+-5.33871803899996;56.535875832;416;United Kingdom;Creran Oysters;n.a.;Active;Oysters;Trestles or trays;Grow out for human consumption, Nursery;European flat oyster, Pacific oyster;n.a.;Pacific Oyster, Flat or native oyster;Original;Farm;UK_0408;94.3433359568659;At sea
+-4.96468442899993;56.246043742;280;United Kingdom;Loch Fyne Oysters Ltd;n.a.;Active;Mixed (other);Long Lines;Other;European flat oyster, Pacific oyster;n.a.;Pacific Oyster, Flat or native oyster, Purple sea urchin;Original;Farm;UK_0267;32.200605824437;At sea
+-7.36256944399997;37.2049027780001;3954;Spain;n.a.;n.a.;Active;Mixed (other);Beds, Saltwater ponds, Trestles or trays;n.a.;European flat oyster, Pacific oyster;Commercial;Pacific oysters (Magallana gigas),  Japanese carpet shell (Ruditapes philippinarum),  Marphysa sanguinea,  Gilt-head Bream (Sparus aurata),  Flat oyster (Ostrea edulis),  Pullet carpet shell (Venerupis corrugata),  Grooved carpet shell (Ruditapes decussa;Original;Farm;ES_0011;32.0695126134208;At sea
+-8.85475916699994;42.5198575000001;2678;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Pacific oysters (Magallana gigas), Flat oyster (Ostrea edulis);Original;Farm;ES_2739;806.872578130682;At sea
+-8.84495666699996;42.5266508330001;2846;Spain;n.a.;n.a.;Active;Oysters;Rafts;n.a.;European flat oyster, Pacific oyster;Commercial;Pacific oysters (Magallana gigas), Flat oyster (Ostrea edulis);Original;Farm;ES_2834;1497.5793853439;At sea
+-8.38279444399996;43.331455556;5026;Spain;n.a.;n.a.;Active;Oysters;Saltwater tanks/raceways;n.a.;European flat oyster, Pacific oyster;Commercial;Pacific oysters (Magallana gigas), Flat oyster (Ostrea edulis);Original;Farm;ES_0229;4.63486474085008;At sea
+-8.85279777799997;42.5010063890001;5111;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Pacific oysters (Magallana gigas), Flat oyster (Ostrea edulis);Original;Farm;ES_0441;575.608679378417;At sea
+-8.85159777799993;42.4975150000001;5656;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Pacific oysters (Magallana gigas), Flat oyster (Ostrea edulis);Original;Farm;ES_0959;446.624789102532;At sea
+-8.85114472199996;42.4998505560001;5838;Spain;n.a.;n.a.;Active;Oysters;Rafts;Grow out for human consumption;European flat oyster, Pacific oyster;Commercial;Pacific oysters (Magallana gigas), Flat oyster (Ostrea edulis);Original;Farm;ES_1001;431.603490203139;At sea
+-8.20739166699997;43.329552778;5039;Spain;n.a.;n.a.;Active;Mixed (other);Beds;n.a.;European flat oyster, Pacific oyster;Commercial;Pacific oysters (Magallana gigas), Grooved carpet shell (Ruditapes decussatus), Pullet carpet shell (Venerupis corrugata),  Common periwinkle (Littorina littorea), Flat oyster (Ostrea edulis);Original;Farm;ES_0240;28.4264030318555;Within the coastline
+-6.17770277799997;36.4421861110001;3955;Spain;n.a.;n.a.;Active;Mixed (other);Saltwater ponds, Saltwater tanks/raceways;n.a.;European flat oyster, Pacific oyster;Research;Sea cucumber (Holothuria arguinensis),  kuruma shrimp (Penaeus japonicus),  Common prawn (Palaemon serratus),  Pacific oysters (Magallana gigas),  Japanese carpet shell (Ruditapes philippinarum),  Grooved carpet shell (Ruditapes decussatus),  Marphysa sa;Original;Farm;ES_0010;443.090367653597;Within the coastline
+-7.89059008599997;51.8986083790001;813;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0246;422.228030310489;At sea
+-8.58923841299998;54.2820688350001;949;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0645;31.5479846319804;At sea
+-8.55699859199996;54.337350202;957;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0653;505.730127865463;At sea
+-9.61862125699997;53.8201507750001;1057;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0564;33.2454881366637;At sea
+-9.61371795499997;53.8191291910001;1058;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0565;61.7619211944173;At sea
+-8.53319333799993;54.294312448;1132;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0402;867.415325927801;At sea
+-8.17107260799997;54.6307158750001;1334;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0220;501.524596561702;At sea
+-8.16488448199993;54.6320719;1335;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0221;174.539308089458;At sea
+-8.18036038199995;54.6301185290001;1341;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0219;840.691978872135;At sea
+-9.95161915699998;52.072674255;1382;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0100;188.996780083778;At sea
+-8.55429515799995;54.3275443890001;1391;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0145;539.14772417035;At sea
+-8.52361569799996;54.2899074520001;1404;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0132;1214.34377307048;At sea
+-8.53712619399994;54.3251089780001;1406;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0134;608.930937490751;At sea
+-8.53546557099997;54.327453926;1412;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0140;429.245217910585;At sea
+-8.53435208499997;54.2934447170001;1417;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0137;959.987402116258;At sea
+-8.54434609099997;54.3256672150001;1418;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0138;380.444266514043;At sea
+-8.17572416499996;54.6321914380001;1423;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Clams,Oysters;Polygon centroid;Farm;IE_0029;487.658152384921;At sea
+-8.32708923999996;54.6202543790001;1520;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels,Native Seaweeds,Native Oysters,Pacific Oysters,Clams,Sea Urchins;Polygon centroid;Farm;IE_1062;1234.62879190087;At sea
+-9.82579980599996;51.6562202850001;797;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels,Oysters;Polygon centroid;Farm;IE_0758;281.270617335351;At sea
+-9.85590530299993;52.1263323840001;954;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels,Oysters;Polygon centroid;Farm;IE_0650;781.218995845647;At sea
+-9.85052012799997;52.156014591;997;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels,Oysters;Polygon centroid;Farm;IE_0661;270.977926216798;At sea
+-8.38710459199996;54.6338119660001;1179;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels,Oysters;Polygon centroid;Farm;IE_0421;107.182082456746;At sea
+-8.95284698699993;53.1680916760001;1257;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels,Oysters;Polygon centroid;Farm;IE_0236;176.722851719176;At sea
+-9.86269550099996;52.1543352740001;1296;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels,Oysters;Polygon centroid;Farm;IE_0182;491.70442263692;At sea
+-9.82925873899995;52.1530997450001;1297;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels,Oysters;Polygon centroid;Farm;IE_0183;560.435170478112;At sea
+-7.56642003299993;55.063812295;1380;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels,Oysters;Polygon centroid;Farm;IE_0095;1096.57823465626;At sea
+-7.56752729099998;55.0821376480001;1381;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels,Oysters;Polygon centroid;Farm;IE_0096;500.43631705645;At sea
+-9.66243189399995;53.8527655010001;1623;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels,Scallops,Oysters, Prawns,Aleria Seaweed;Polygon centroid;Farm;IE_0877;321.984583062553;At sea
+-8.47421645899993;51.711296012;170;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0880;39.9691700516932;At sea
+-9.58396559799996;53.792167878;171;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0860;275.133946790948;At sea
+-9.65972625099994;53.8926152280001;172;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0861;163.555145497693;At sea
+-9.58198617199997;53.8481801510001;173;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0862;83.2833942392806;At sea
+-9.57857395599996;53.8464356380001;174;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0863;21.4807609912899;At sea
+-8.52073810099995;54.292949848;175;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0856;830.911304442906;At sea
+-8.52337264899995;54.2928818560001;176;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0857;942.005250285504;At sea
+-8.53533080299997;54.294742324;177;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0858;812.447093313226;At sea
+-8.52541314499996;54.2922278020001;178;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0859;1062.71513920103;At sea
+-9.67848818899995;53.883579712;179;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0868;95.4054463836941;At sea
+-9.67668739699997;53.881038673;180;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0869;119.694145070612;At sea
+-9.62842215299997;53.792238303;181;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0870;518.538063116924;At sea
+-9.62843747899996;53.788389346;182;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0871;103.841776924781;At sea
+-9.66303056299995;53.8886293350001;183;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0864;112.799725420324;At sea
+-10.0470041259999;53.4804851920001;187;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0799;94.4615167047174;At sea
+-9.09187041099995;53.1438488490001;188;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0800;120.331439543107;At sea
+-9.39866024799994;51.4983667980001;189;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0801;155.483512026835;At sea
+-7.28881843699997;55.2858247780001;190;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0802;932.013950400701;At sea
+-8.41075259099995;54.9452298150001;191;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0795;162.138485533548;At sea
+-8.39959677099995;54.631500084;192;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0796;192.915206206931;At sea
+-7.29080269099995;55.2876406180001;193;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0797;817.712173592873;At sea
+-7.70163019099994;55.210438196;196;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0947;169.863146060792;At sea
+-9.69194293299995;53.890403925;197;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0808;96.1274775186136;At sea
+-9.93758007099996;53.914344757;198;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0809;39.2605633399252;At sea
+-6.96656238899993;52.2094878570001;200;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0804;352.445895648755;At sea
+-8.33418369299994;54.881981432;201;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0805;390.530233686785;At sea
+-8.97901130199995;53.2172104860001;202;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0806;79.1243033757251;At sea
+-7.29599830199993;55.2997757530001;203;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0784;120.195046040377;At sea
+-7.29776554099993;55.2989021600001;204;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0785;268.693906693142;At sea
+-6.96778376299994;52.2024842750001;205;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0786;526.977048571632;At sea
+-7.74882290999994;55.1764532550001;206;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0997;97.152475623144;At sea
+-8.18072368599996;54.6335057950001;208;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0995;564.485578068016;At sea
+-6.96815937899993;52.2000840810001;209;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0782;647.064488118369;At sea
+-8.40333577799993;54.9467230180001;212;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0793;211.0120897442;At sea
+-8.39380234699996;54.9439854120001;213;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0794;69.3704150521203;At sea
+-8.40487882799994;54.9418673340001;214;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0787;328.816279157155;At sea
+-8.41199243799997;54.9423924000001;215;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0788;177.28569317505;At sea
+-8.13200592699997;54.634851247;216;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0790;139.328315580489;At sea
+-7.28691104899997;55.2934531170001;219;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0994;146.062980479873;At sea
+-7.28818848699996;55.2926252880001;220;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0993;268.858797604519;At sea
+-7.58857942399993;52.0586016710001;221;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0825;469.150885689715;At sea
+-7.59117230799995;52.077785421;222;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0826;1123.21471282935;At sea
+-7.30071088799997;55.301924059;223;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0992;143.166328272433;At sea
+-9.67742699099995;53.8867699680001;224;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0827;250.038339838608;At sea
+-7.29178197699997;55.2903811800001;227;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0831;607.147869373376;At sea
+-8.37051138299995;54.896035957;228;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0832;362.082064222967;At sea
+-7.29768523899997;55.2980623300001;229;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0990;326.086726750994;At sea
+-7.29587937999997;55.297242694;230;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0989;286.86061654493;At sea
+-7.28333936299993;55.2913200770001;231;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0988;238.940119726998;At sea
+-10.0711529509999;53.5055396760001;232;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0974;60.554523675325;At sea
+-9.03287150899996;51.556450537;233;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0814;46.387538829862;At sea
+-9.02800011199997;51.573908111;234;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0815;89.4121728490224;At sea
+-8.96528374899998;53.236772553;235;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0816;62.2314491352805;At sea
+-8.54428212099998;51.7001727200001;236;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0817;70.3348222215906;At sea
+-9.93274827099998;53.9164915060001;237;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0810;22.7098479078418;At sea
+-6.96743363699994;52.212273629;239;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0812;460.243528871388;At sea
+-7.28368853899997;55.286643462;240;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0813;730.535988976721;At sea
+-8.14861954899993;54.633679747;241;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0822;253.015995448512;At sea
+-7.28637789299995;55.286206742;243;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0824;832.885322244244;At sea
+-10.258296808;51.9418437780001;244;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0986;354.601303833464;At sea
+-8.54282759099993;51.6952404350001;245;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0819;15.3857598109989;At sea
+-9.41668215299995;51.4764170400001;246;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0820;43.9277027802666;At sea
+-9.53936855399996;51.7456683940001;247;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0821;90.5852612357967;At sea
+-6.97132534299993;52.1926347200001;248;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0741;729.669135258044;At sea
+-9.40281507399993;51.4908667500001;711;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0119;50.1104669481298;Within the coastline
+-9.41083354999995;51.4898110930001;712;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0121;41.6842976946231;Within the coastline
+-9.40760277699997;51.4746560820001;713;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0125;6.8180556981455;Within the coastline
+-9.39949383799996;51.4997953430001;714;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0666;0.495525255114345;Within the coastline
+-8.13925685799995;54.636136665;715;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0789;20.0585692005406;Within the coastline
+-8.38194263399993;54.8398163350001;716;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0044;13.4803370745428;Within the coastline
+-7.75204065199995;55.1814389900001;717;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0047;20.6857426469306;Within the coastline
+-9.07615248699994;53.1327482030001;718;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0176;0.061433376927203;Within the coastline
+-8.62723073899997;54.241859758;719;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0181;24.2417843418748;Within the coastline
+-9.36628987499995;51.5166423810001;720;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0225;18.5160521502934;Within the coastline
+-9.82673891999997;51.8234164680001;721;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0241;5.82319738722837;Within the coastline
+-9.38106466199997;51.5074525910001;722;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0242;23.1284559700762;Within the coastline
+-9.39705076899997;51.4935570980001;723;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0243;15.5134103054261;Within the coastline
+-9.39715211499993;51.4914402360001;724;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0244;10.2840026650019;Within the coastline
+-9.39469115299994;51.4951568180001;725;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0315;2.66298232790068;Within the coastline
+-9.57251999399995;53.84614736;729;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0505;9.75184245243373;Within the coastline
+-8.32078882499997;55.059467732;730;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0583;13.3838870331511;Within the coastline
+-8.54356723299998;54.3300668000001;731;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0668;65.3154563235332;Within the coastline
+-9.49252923999995;52.5772935140001;733;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0998;137.232421812581;Within the coastline
+-9.99509949399993;53.558423884;736;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0773;117.559430406401;Within the coastline
+-8.55231066499994;51.6992711170001;737;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0818;53.2648457906569;Within the coastline
+-8.46664357299994;51.7097621130001;745;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0879;47.0848819660331;At sea
+-7.57980935099994;52.0547341120001;748;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0744;419.315501069782;At sea
+-7.28701304699996;55.289704176;750;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0738;496.111999513495;At sea
+-7.28533154499996;55.2895943280001;751;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0739;459.479247294245;At sea
+-7.28723006099995;55.292187072;752;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0740;266.984395733962;At sea
+-7.28837691199993;55.2940790760001;753;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0753;153.867452272384;At sea
+-7.29252620899996;55.2960007940001;754;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0754;226.921689087903;At sea
+-7.28807873799997;55.293583158;756;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0756;183.412210022687;At sea
+-7.57582419499994;52.0519552750001;757;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0745;116.575513000718;At sea
+-8.53689153999994;51.6954379200001;760;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0979;210.274761525533;At sea
+-9.86378171899997;52.290584445;761;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0730;14.8979736115866;At sea
+-7.30937885199995;55.2885128870001;763;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0978;159.891923045166;At sea
+-7.31483964199998;55.288086713;764;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0977;73.8081187525776;At sea
+-9.72158554999993;53.251092564;765;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0726;324.136328645707;At sea
+-9.70563135599997;53.2917827750001;766;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0727;206.634383494477;At sea
+-10.168107703;52.241317113;767;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0728;226.064998691324;At sea
+-9.96166410799998;52.309415293;768;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0729;2581.27729835193;At sea
+-7.59203074299995;52.070957374;769;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0735;975.949364582977;At sea
+-9.48403764999995;52.5726190990001;773;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0985;268.273743647005;At sea
+-7.59241189199997;52.0691388270001;774;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0732;970.320570965618;At sea
+-7.59153953999993;52.0638480310001;775;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0733;742.359355804854;At sea
+-8.33901409299995;54.881552318;776;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0734;187.475430826375;At sea
+-9.60709528199993;53.792756631;777;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0769;517.246717983214;At sea
+-8.37657347899994;54.897493884;778;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0770;12.4818813208988;At sea
+-8.37310660199995;54.8927665780001;779;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0771;176.59072739906;At sea
+-8.95194485599995;53.189424305;780;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0772;168.719965024469;At sea
+-9.61604514199996;53.7926371240001;781;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0765;708.746372931552;At sea
+-9.60434609599997;53.792792696;782;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0766;504.551232677138;At sea
+-9.61012883699993;53.7927159400001;783;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0767;598.345166490124;At sea
+-9.61316223499995;53.79267543;784;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0768;680.280208060823;At sea
+-9.54664407199994;52.6056824780001;785;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0777;1628.71722515327;At sea
+-10.078565672;53.5125859760001;786;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0778;74.1507324566444;At sea
+-9.93702279199994;53.8818100060001;788;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0780;356.0855482874;At sea
+-9.85516350899996;53.3197914790001;789;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0774;56.7958454141984;At sea
+-8.91944492299996;53.2129475090001;790;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0775;260.999546527941;At sea
+-9.25517733799995;52.5970190520001;791;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0776;756.617294342623;At sea
+-9.93439135799997;53.8839907890001;798;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0759;160.663995890865;At sea
+-9.68951236799995;53.8863457480001;800;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0763;106.147885643675;At sea
+-7.30851080799994;55.289053972;801;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1019;133.413010836382;At sea
+-9.55881401799996;52.6528076530001;802;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1018;109.589529470234;At sea
+-9.61519648699993;53.7903205740001;803;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0764;506.057440965496;At sea
+-8.23580334199994;51.8817367400001;807;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0761;286.481376632764;At sea
+-9.55029356299997;52.650483079;808;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1014;38.7247734002309;At sea
+-9.54901399099998;52.6459307740001;809;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0699;220.461819250677;At sea
+-7.28436574699998;55.2918373430001;810;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0356;205.986432691808;At sea
+-9.39875465299997;51.504646757;812;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0245;21.3316441133922;At sea
+-6.96665229699994;52.1949332720001;814;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0239;1005.45713952441;At sea
+-9.08527638499993;53.1424521750001;815;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0240;66.0067420952135;At sea
+-10.0732233639999;53.5126389210001;816;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0264;166.175839106084;At sea
+-8.93893989099996;53.198887809;817;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0265;77.256514294186;At sea
+-8.97420059399997;53.1918546250001;818;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1013;104.270714010691;At sea
+-7.57649417299996;52.055273506;819;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0267;472.40518554448;At sea
+-10.0083034369999;53.551237708;823;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0263;65.4540155538535;At sea
+-7.31413953899994;55.2876990720001;883;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0999;126.500109092331;At sea
+-9.54604089099996;52.6370032680001;884;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1011;323.918590999316;At sea
+-9.55070492999994;52.656453739;885;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1023;218.627194957191;At sea
+-9.55019212099995;52.651285124;886;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1009;69.7116182469338;At sea
+-9.54746233199995;52.6526634470001;887;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1008;47.2921764439823;At sea
+-9.54648872599995;52.6359986100001;889;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1006;339.199782088587;At sea
+-9.54579302699995;52.637468836;890;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1005;286.35711742372;At sea
+-9.55273431399996;52.654047269;891;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1004;50.121890926251;At sea
+-8.50510375199997;54.7714596340001;892;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0700;291.311440956304;At sea
+-9.86184515199994;53.615527801;894;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0702;124.494348716506;At sea
+-9.86567360399994;51.642371247;897;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0696;26.219150314439;At sea
+-9.54887200699994;52.652816262;898;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1002;143.827644406728;At sea
+-9.54653700499995;52.651906082;899;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1001;51.3967355180473;At sea
+-8.32951151299994;55.038777897;900;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0690;355.984369528132;At sea
+-8.32620766399998;55.0393351490001;901;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0691;229.614018734481;At sea
+-9.54508554199998;52.6378769890001;904;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1000;266.828939118387;At sea
+-9.54678150399997;52.635464239;905;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0962;359.494973846844;At sea
+-9.54617110099997;52.6365039710001;906;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0925;332.275937054702;At sea
+-9.54702921799998;52.634944696;907;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0975;384.083983165416;At sea
+-9.54442643099998;52.646185707;908;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0946;221.011453001564;At sea
+-8.94080954999993;53.2023420400001;909;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0697;62.7202697180412;At sea
+-9.54767959799995;52.634398149;911;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0945;389.814610377905;At sea
+-8.58993923999998;54.246259363;912;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0716;263.057217284334;At sea
+-8.59556682399995;54.252217219;913;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0717;162.214344094384;At sea
+-8.60495938799994;54.2314990460001;914;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0718;133.680527997358;At sea
+-9.86413007499993;52.1184450280001;916;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0712;112.796044472054;At sea
+-9.81595120199995;52.1529647680001;917;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0713;88.1547472045298;At sea
+-8.58265085299996;54.242389147;918;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0714;286.429656730231;At sea
+-8.13165954499993;54.6201592350001;919;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0722;129.256860726686;At sea
+-9.53355870799993;51.661514331;920;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0943;360.891858259367;At sea
+-8.12570871499997;54.618972365;921;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0723;40.9998915219129;At sea
+-9.68966994599998;53.839635281;922;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0725;802.469599408168;At sea
+-7.28502661799996;55.291403185;923;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0942;268.822361379901;At sea
+-9.55614824999998;52.655106544;928;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0941;60.842821557388;At sea
+-9.55455935999993;52.652643019;929;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0940;183.039161262061;At sea
+-9.55489247699995;52.653329957;930;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0939;113.842267538166;At sea
+-9.55433670599996;52.6565310770001;931;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0938;71.6339480273403;At sea
+-9.55512087599993;52.6540698310001;932;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0924;62.5103974193694;At sea
+-9.55730748199994;52.6559287650001;933;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0936;53.2918928853353;At sea
+-9.55543216799998;52.650642556;934;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0948;201.733762976444;At sea
+-9.55402116199997;52.6493198850001;935;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0934;302.202669588649;At sea
+-9.55415850599996;52.6534185450001;936;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0933;95.8283665028838;At sea
+-9.55565942399994;52.6548449000001;937;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0932;56.1735900483683;At sea
+-8.32695288399998;55.0414786630001;938;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0710;163.456222013304;At sea
+-7.31314257799994;55.299373899;940;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0707;37.964133639869;At sea
+-9.83486242899994;52.128354438;941;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0708;118.664059436617;At sea
+-9.66739598599997;51.8658506130001;942;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0646;60.4594732868464;At sea
+-7.29720161999995;55.2981476670001;943;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0647;296.32964512395;At sea
+-8.47572916799993;54.764083165;945;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0649;120.104519236342;At sea
+-9.80307754899997;54.2708180810001;946;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0640;59.7597374433844;At sea
+-8.94858679999993;53.152853093;947;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0641;31.5272524525628;At sea
+-7.57485970699997;52.0528764470001;956;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0652;184.240342148766;At sea
+-9.80491691999993;54.2754748630001;959;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0628;68.5650450259251;At sea
+-6.78463622999993;52.236946909;962;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0615;575.82903514435;At sea
+-9.40049039499996;51.493900223;966;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0636;177.092323108899;At sea
+-7.58651209999994;52.0763527870001;967;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0637;1316.06989009155;At sea
+-9.09096643499993;53.1444603260001;968;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0638;207.267991079181;At sea
+-9.84519516999995;52.1296036160001;970;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0631;619.395437431395;At sea
+-9.55171225099997;51.6028975020001;972;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0634;43.6210118666086;At sea
+-10.084710548;53.5148323450001;975;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0677;7.18960746058474;At sea
+-9.86222407499997;52.118380249;976;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0678;96.2560612682819;At sea
+-10.046144155;53.4585700970001;977;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0679;41.0752418239316;At sea
+-9.86218852899998;52.1217966230001;978;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0672;373.494703635967;At sea
+-9.86084782599994;52.1219213040001;979;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0673;363.936435791474;At sea
+-7.31254573399997;55.2875403640001;981;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0675;167.347328720817;At sea
+-7.28749239199993;55.2930747620001;983;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0685;202.082423975994;At sea
+-8.32953730499997;55.0366149000001;984;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0688;286.935264801867;At sea
+-8.32637027199996;55.0401838760001;985;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0689;186.319685692994;At sea
+-7.31522005599993;55.287165911;986;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0680;176.619462884566;At sea
+-9.64132742399994;53.8331720780001;987;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0682;250.808997875313;At sea
+-7.88942743199993;51.901180928;995;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0659;717.672444199261;At sea
+-8.55594785099993;54.3349324320001;998;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0669;465.193062748615;At sea
+-9.51339335899996;52.575377449;999;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0926;237.533990718565;At sea
+-8.15147279199994;54.6308007440001;1000;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0671;465.462698862123;At sea
+-9.39745376999997;51.5018011980001;1002;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0667;31.2711860759023;At sea
+-7.58122308399993;52.0570884370001;1003;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0545;681.662439210128;At sea
+-7.58592073599993;52.064310355;1008;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0542;1018.5681342989;At sea
+-7.58584986699998;52.0691159310001;1009;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0543;1414.1556386954;At sea
+-7.58653827599994;52.0735219800001;1010;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0544;1372.07212977057;At sea
+-7.58652352599995;52.0751171150001;1011;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0556;1391.80423675094;At sea
+-7.58659103099995;52.0678154220001;1012;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0557;1297.2098363813;At sea
+-10.1194963409999;53.5209636500001;1018;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0554;62.2743164067208;At sea
+-8.96321973499994;53.1638748980001;1020;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0530;76.5087904411318;At sea
+-7.58800906299996;52.0721790850001;1021;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0531;1255.54940152965;At sea
+-7.58336813999995;52.060093802;1022;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0532;862.788238276074;At sea
+-7.57721975699997;52.0548372860001;1023;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0525;431.58586128145;At sea
+-7.58656901799998;52.0701968980001;1024;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0526;1352.88281704301;At sea
+-7.58730478099994;52.0694805190001;1028;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0538;1309.88687174727;At sea
+-7.58656216399993;52.0709383010001;1029;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0539;1350.93695954588;At sea
+-7.58657234099996;52.0698374300001;1030;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0540;1355.63373580186;At sea
+-7.57795320199995;52.0559893330001;1032;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0534;558.497774014236;At sea
+-7.57433246799997;52.053995899;1033;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0535;303.079794018558;At sea
+-7.58874153099993;52.0718221660001;1034;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0536;1203.75845189346;At sea
+-6.78885198799998;52.238567222;1035;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0591;433.608734964022;At sea
+-6.78138622799997;52.235966385;1036;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0592;330.937235337199;At sea
+-8.26607165499996;51.883786897;1037;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0593;192.689012500189;At sea
+-10.1294556789999;53.5211011750001;1039;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0586;42.1732831838996;At sea
+-8.25974833199996;51.8819987040001;1041;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0588;37.2269660663091;At sea
+-8.96682270099996;53.1639723000001;1042;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0589;102.241277863672;At sea
+-8.14564574199994;54.6265585290001;1043;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0611;303.120542820149;At sea
+-8.12668656499994;54.6255583510001;1044;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0612;72.456502811897;At sea
+-6.78912124299995;52.242033635;1045;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0613;56.8088212556674;At sea
+-9.86816929799994;52.138317021;1047;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0596;1598.82058468354;At sea
+-6.79465897799997;52.2392041270001;1048;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0597;182.079542303461;At sea
+-8.47498276999994;54.7584483350001;1050;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0609;60.1109084082759;At sea
+-8.22775221599994;54.6231663550001;1055;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0561;60.5846226746053;At sea
+-7.29905945099995;55.2998208400001;1056;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0562;249.74634769206;At sea
+-8.40799941499995;54.941856912;1065;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0581;222.60960252762;At sea
+-10.07037328;53.5122924010001;1066;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0970;88.7198229880955;At sea
+-6.14785616699993;54.0346091920001;1069;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0481;720.274790566962;At sea
+-10.075169439;53.513383977;1073;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0477;190.197990274577;At sea
+-6.11863752599993;54.0138038790001;1077;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0969;48.6371171801937;At sea
+-6.16560462499996;54.04019537;1078;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0483;428.543200005376;At sea
+-6.14502252099993;54.0335825930001;1079;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0484;531.184543637518;At sea
+-6.16118330899997;54.0392228200001;1080;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0485;472.385206584296;At sea
+-9.99493438099995;53.5728538210001;1090;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0466;75.2102436802981;At sea
+-9.86364496699997;52.117681846;1103;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0511;35.2221273859933;At sea
+-6.15571155399994;54.03736845;1113;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0964;557.483620823122;At sea
+-6.14087889799993;54.033439247;1114;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0495;304.914791440738;At sea
+-8.47448026099994;54.7593610050001;1115;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0963;163.748383305573;At sea
+-8.15434945299995;54.631154935;1116;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0496;385.875956443779;At sea
+-6.17318439399997;54.043762095;1119;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0949;292.090882152121;At sea
+-6.16980092299997;54.0422375320001;1120;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0961;311.493242526962;At sea
+-6.17461103899996;54.0444742670001;1121;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0503;275.05638614799;At sea
+-6.17565316699995;54.0451939430001;1122;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0504;310.75072937689;At sea
+-7.59259210299996;52.065364914;1123;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0508;862.456157893959;At sea
+-9.63858299999993;53.8452634290001;1126;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0501;45.1504572591409;At sea
+-10.0460964239999;53.4606854300001;1129;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0407;268.686267668425;At sea
+-10.0407275279999;53.4601401840001;1130;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0408;41.6131167303318;At sea
+-9.40285112699996;51.4946225320001;1131;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0401;8.27449852392158;At sea
+-9.91819488299996;53.4061263560001;1136;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0415;101.405577188158;At sea
+-7.57796101199995;52.0562142460001;1137;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0417;583.526458367365;At sea
+-7.57721866399993;52.055649246;1138;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0418;521.708479732801;At sea
+-8.96341718599996;53.237469537;1139;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0409;89.4722376624241;At sea
+-8.99210855499996;53.223349044;1140;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0410;46.9096901698924;At sea
+-9.10686052099993;53.1432869990001;1141;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0411;103.410176039427;At sea
+-9.57923413899994;53.802480486;1142;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0412;287.016102347648;At sea
+-9.83336417099997;52.1286174270001;1143;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0389;110.679703715149;At sea
+-9.86772208799994;52.1243032610001;1144;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0390;799.079899314281;At sea
+-9.88477454599996;52.123931913;1145;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0391;470.862087761517;At sea
+-9.84812827499997;52.1243039930001;1146;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0392;310.816390325014;At sea
+-9.67105586499997;51.8651698130001;1147;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0380;53.3180518607545;At sea
+-9.86832580499993;52.130281983;1155;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0393;1404.40295189637;At sea
+-9.88712141399998;52.123583017;1156;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0394;321.438283651704;At sea
+-7.30208959199996;55.302650982;1163;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0957;138.903935636002;At sea
+-7.57722521499994;52.055892353;1178;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0419;548.677390409001;At sea
+-9.93379712499996;53.8875944650001;1180;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0422;364.357823087869;At sea
+-8.96618742899994;53.17546186;1187;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0431;45.1861402530519;At sea
+-8.13611498099993;54.6124191480001;1199;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0337;274.948455838687;At sea
+-8.13876634099995;54.6145671790001;1200;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0338;214.879970517602;At sea
+-7.57649967899994;52.055534761;1201;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0343;500.008830824315;At sea
+-9.93619293399996;53.876796944;1207;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0312;41.1995659140421;At sea
+-9.54548875999996;52.5699885510001;1209;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0955;383.404406908638;At sea
+-8.98289705699995;53.2234683980001;1210;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0303;143.68073242415;At sea
+-8.99835984499998;53.228461693;1211;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0304;208.97553590319;At sea
+-9.00896695799997;53.217859285;1212;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0305;68.9714023948887;At sea
+-9.39417502999993;51.4972529070001;1218;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0314;2.67210759733498;At sea
+-9.98507112199997;53.5527050090001;1219;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0952;119.914955617053;At sea
+-9.40156620099998;51.5015029250001;1220;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0316;20.6048469515659;At sea
+-9.88048766799994;52.1189527450001;1230;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0377;656.490162118227;At sea
+-9.87199979899998;52.1268846820001;1231;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0378;1194.91687485089;At sea
+-9.88159374999998;52.121047445;1232;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0379;777.583387453039;At sea
+-6.79383187399998;52.237123958;1233;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0370;378.616941993451;At sea
+-6.78428884099998;52.2381494160001;1234;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0371;565.4948553996;At sea
+-9.84172551899997;52.1271555970001;1235;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0373;273.49348350022;At sea
+-9.08295919299997;53.133071241;1236;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0375;88.4876719034818;At sea
+-9.37066922099996;51.5161295600001;1237;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0349;65.6053598101224;At sea
+-9.86145081199993;52.119234315;1238;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0350;90.0588321163802;At sea
+-9.53570651799993;52.5701473500001;1241;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0951;405.173803638566;At sea
+-7.28662302099997;55.292544326;1249;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0354;212.236647160977;At sea
+-7.28572967099996;55.292035786;1250;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0355;238.549058399391;At sea
+-9.36597416699993;51.5154034430001;1253;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0224;27.6452521491363;At sea
+-9.57657155799996;53.80283231;1254;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0226;191.709636661848;At sea
+-7.30316513099996;55.301959063;1255;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1025;239.430117895068;At sea
+-9.97347300799993;53.5535833430001;1258;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0237;93.7213625057563;At sea
+-9.67798541799993;53.8806604040001;1259;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0238;130.439833231208;At sea
+-9.82777101099998;53.3934193050001;1260;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0231;64.227675511074;At sea
+-9.55345510499995;52.6585156100001;1261;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0232;168.192555381874;At sea
+-9.70625301099994;52.605334197;1262;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0233;122.43453611028;At sea
+-9.52935551799993;52.570807276;1264;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1100;242.29227079068;At sea
+-9.84113516799994;52.130548602;1268;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0285;586.661285294125;At sea
+-7.55536438099995;55.039612193;1269;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1095;337.935660612741;At sea
+-8.44389896099995;51.706619032;1270;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0287;47.920832114726;At sea
+-8.44243664899994;51.707550213;1271;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0288;29.1116178914673;At sea
+-8.97898880899993;53.23470918;1272;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0299;90.4650777168314;At sea
+-8.98425008399994;53.225160497;1273;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0300;47.6973609817866;At sea
+-9.00181331699997;53.2289689570001;1274;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0301;277.798141210787;At sea
+-8.99344182699997;53.2289813200001;1275;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0302;119.258486203388;At sea
+-7.28819934399996;55.2868297210001;1277;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0296;813.876783203234;At sea
+-8.98680977599997;53.2308491540001;1279;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0298;103.496676587191;At sea
+-7.57289004099994;52.05187299;1280;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0272;69.4749495945582;At sea
+-7.58265125499997;52.0597880990001;1281;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0273;890.45699868711;At sea
+-7.57578439299994;52.0548185640001;1282;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0274;409.411916617376;At sea
+-7.57505693399997;52.054627286;1283;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0275;377.923143653357;At sea
+-7.57505383099993;52.054271371;1284;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0268;338.837749193058;At sea
+-7.58232040699994;52.058510993;1285;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0269;839.562495802489;At sea
+-7.58302513899997;52.0592652;1286;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0270;840.664145225572;At sea
+-7.58650586599992;52.077026792;1287;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0271;1275.85022679216;At sea
+-9.82455785199994;52.127540637;1289;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0281;98.4606019837505;At sea
+-9.67459408799994;53.8830301310001;1291;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0284;210.231142974819;At sea
+-6.96681799999993;52.189144522;1294;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0278;673.208018888878;At sea
+-7.29006040199994;55.286216112;1298;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0184;928.821367414362;At sea
+-8.60245162399997;54.2276958200001;1299;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0177;69.6329247408847;At sea
+-8.59874433399995;54.226058241;1300;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0178;286.463961373006;At sea
+-8.17619341299996;54.633736158;1301;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0179;356.566189323599;At sea
+-8.61428692499993;54.2357247370001;1302;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0180;68.9179945867366;At sea
+-8.16943731799995;54.6377653770001;1304;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1093;57.5366478010178;At sea
+-8.98708050099998;53.229768764;1305;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0190;124.48203614684;At sea
+-8.98990320299993;53.229516355;1306;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0191;149.476320566957;At sea
+-7.28877354099996;55.290720557;1307;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0185;456.973787125238;At sea
+-7.28999364799995;55.290895075;1308;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0186;489.718357866619;At sea
+-9.83781514099996;52.1295772920001;1309;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0187;361.307747957614;At sea
+-9.85043874199994;52.121490717;1310;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0188;151.81489088784;At sea
+-7.29585243799994;55.2987686540001;1311;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0165;186.221270906877;At sea
+-7.29362254099993;55.296457268;1315;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0161;246.781537207057;At sea
+-9.87120185899994;52.1375583940001;1316;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0162;1374.6441045155;At sea
+-7.58668084599998;52.0580812600001;1317;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0163;557.413277181472;At sea
+-7.58032545299994;52.0593611740001;1318;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0164;934.317692354175;At sea
+-6.12406142899994;54.0242618250001;1319;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0173;344.639610910182;At sea
+-6.15308266999995;54.0360004980001;1320;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1092;547.147641250899;At sea
+-6.15116603499996;54.0353214570001;1325;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0172;611.342658324594;At sea
+-9.69224493499996;53.886557071;1328;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0214;129.008163363835;At sea
+-9.37435369099995;51.5100001540001;1329;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0215;53.0962949318348;At sea
+-9.37748300899995;51.5116485930001;1338;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0216;64.4398084079911;At sea
+-10.2581478559999;51.944216017;1349;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0195;276.512944454555;At sea
+-8.40196150099996;54.9422392100001;1358;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0108;202.747143900103;At sea
+-8.40488784499996;54.9427655740001;1359;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0109;328.935986657879;At sea
+-8.98986441299996;53.1910587560001;1360;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0117;148.141816106974;At sea
+-9.40761391299998;51.4925530950001;1361;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0118;39.2548648628015;At sea
+-8.40097139199997;54.9412065710001;1362;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1091;79.5692357920571;At sea
+-8.39282008499993;54.9453517050001;1363;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1090;71.9284994040244;At sea
+-8.39946794999997;54.9447653020001;1364;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0106;133.735142022904;At sea
+-8.39480643899998;54.942358321;1365;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0107;119.862693417786;At sea
+-9.41785479599997;51.4746150980001;1366;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0123;42.7312655222991;At sea
+-9.41393429699997;51.4727806970001;1367;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0124;5.52450660713443;At sea
+-9.40911198299995;51.4765056530001;1368;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0126;8.04458108354302;At sea
+-9.40764323699995;51.491091043;1369;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0120;1.01202767550654;At sea
+-9.41525255999994;51.4794578870001;1370;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0122;19.6334348195181;At sea
+-8.33925471799995;54.884803306;1371;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0086;475.389066851341;At sea
+-8.36385552099995;54.896314698;1372;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0087;295.501838036388;At sea
+-8.36877617499994;54.8972428220001;1373;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0088;277.604218579479;At sea
+-8.33350883599996;54.887991732;1374;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0089;112.663101296181;At sea
+-9.68672874499993;53.8858692800001;1389;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0151;94.1446747168285;At sea
+-8.16269098299995;54.633716463;1395;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0157;38.2550668192098;At sea
+-8.16708279199997;54.6306566900001;1396;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0158;244.831305920404;At sea
+-9.85999167799997;52.119257342;1397;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0159;62.1868557077248;At sea
+-9.41399267799994;51.4774213490001;1407;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0127;20.5877820649251;At sea
+-10.016381748;53.558850648;1408;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0128;59.7596433778376;At sea
+-9.58339649899995;53.7920924630001;1411;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0139;239.953002092471;At sea
+-9.19347691799993;54.2143459320001;1427;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1074;610.046366250517;At sea
+-9.18588087999996;54.2085344170001;1428;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1086;68.4088014172548;At sea
+-7.78642679299998;55.1857018790001;1431;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0039;147.12811600245;At sea
+-8.42914573599995;54.940371338;1432;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0040;166.244987488112;At sea
+-9.95010278799998;53.977018747;1433;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0041;157.652975707923;At sea
+-8.34490036699998;54.8827432790001;1434;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0013;95.7374449229676;At sea
+-8.40800850199997;54.942755151;1435;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0015;148.002047548235;At sea
+-8.39375799299995;54.9431910270001;1436;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0016;155.868908807192;At sea
+-8.37596059199996;54.89444165;1438;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0006;37.2861464221734;At sea
+-8.32818137999993;54.8839687610001;1439;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0007;451.068544265995;At sea
+-8.63561798899997;54.6343895630001;1440;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0012;157.209860741293;At sea
+-8.32159440899994;55.0570998590001;1441;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0024;101.714382061159;At sea
+-8.33163425299995;55.0444345510001;1442;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0025;328.11352881838;At sea
+-8.34258738499994;54.8863561790001;1443;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0026;518.268244696297;At sea
+-8.40044313299995;54.9430048460001;1444;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0028;199.23991580256;At sea
+-7.29865427399994;55.3005812440001;1449;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0066;169.175384093396;At sea
+-9.84015762999996;52.1558073640001;1452;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0069;173.156115143143;At sea
+-7.29950771399996;55.3012897570001;1453;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0063;145.735058159369;At sea
+-7.28952427799993;55.287279535;1455;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0065;809.593087060781;At sea
+-7.29137100399993;55.2955562490001;1456;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1098;195.882830448582;At sea
+-8.39961894699996;54.6287710770001;1461;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0070;74.6323824520885;At sea
+-8.40594885599995;54.6303326940001;1462;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0071;70.0321815304755;At sea
+-8.91558388899995;53.2124492080001;1464;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0076;26.338026341404;At sea
+-8.17457281199995;54.6345286960001;1467;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0053;225.639942111022;At sea
+-8.17661178599997;54.6310471460001;1468;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0054;626.389686389867;At sea
+-7.29073894599998;55.288655631;1472;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0059;717.816342515906;At sea
+-7.29022460699997;55.29505218;1473;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0060;169.143476646968;At sea
+-7.28907943399997;55.2945526250001;1474;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0061;143.647219229102;At sea
+-7.29678407099993;55.299387816;1475;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0062;186.185443359417;At sea
+-7.29462165099994;55.297039763;1476;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0055;252.011625789373;At sea
+-7.31051068899995;55.287991279;1477;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0056;178.442506282137;At sea
+-7.29518640799995;55.297865341;1478;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0057;208.149636229108;At sea
+-7.29772258199995;55.2999620950001;1479;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0058;182.860444032051;At sea
+-9.68798853399994;53.89114535;1480;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1084;120.509875627662;At sea
+-9.67217358399995;53.8824800290001;1481;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1083;341.703761656006;At sea
+-7.27879865599994;55.291441578;1482;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1082;133.616479502684;At sea
+-7.71637008199997;55.169079809;1484;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1081;89.9147476628112;At sea
+-9.60609636399994;53.7904427970001;1485;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1080;251.484033907096;At sea
+-9.61119595999998;53.7895097430001;1486;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1079;305.641194784015;At sea
+-9.68873265799994;53.893078717;1487;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1078;78.4582896289098;At sea
+-9.70367122699997;52.5918284360001;1488;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1077;119.421279580979;At sea
+-9.70363163199994;52.6024511040001;1490;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1075;150.596322458675;At sea
+-9.68280382099994;53.892720049;1491;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1110;50.3302331250512;At sea
+-7.28682300299994;55.287083905;1492;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1112;754.54322932303;At sea
+-9.00810413699998;53.228417248;1493;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1087;210.278822751541;At sea
+-10.050883901;53.4584262980001;1494;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1122;66.9422583196186;At sea
+-7.28097290499994;55.291403959;1495;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1121;173.169500859503;At sea
+-7.28336882599996;55.2899831610001;1496;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1120;371.141792791085;At sea
+-7.28597558099995;55.2874065510001;1497;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1119;700.839804929711;At sea
+-6.12805931299994;54.024271997;1498;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1118;90.6615631969892;At sea
+-9.55381847999996;52.6505654210001;1499;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1117;277.263469212455;At sea
+-9.87575532599993;52.1289136830001;1500;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0917;1026.01767603415;At sea
+-10.072764169;53.5080721730001;1501;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1116;93.8293140099615;At sea
+-9.68372288499995;53.8832726850001;1502;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1115;61.6195022200757;At sea
+-9.68554202899998;53.8840418980001;1503;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1114;51.5413275639045;At sea
+-7.72815638599997;55.1762421110001;1504;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1113;83.1871299762843;At sea
+-7.72137080299996;55.1716673820001;1505;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1099;48.16184192191;At sea
+-9.93908869799998;53.9652232650001;1506;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1111;56.4400700396686;At sea
+-9.85104921399994;53.9859292960001;1507;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1124;197.663030307056;At sea
+-7.59564000499995;52.070969823;1508;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1109;728.46485070855;At sea
+-8.36810920899995;54.8951882260001;1509;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1108;454.807283693302;At sea
+-8.97489508399997;53.1762764700001;1530;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1042;156.041558226873;At sea
+-9.00736384899994;53.170713348;1531;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1041;100.129063651384;At sea
+-9.01043063499998;53.2180440130001;1532;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1040;111.790459159753;At sea
+-8.32784203499995;54.8771992800001;1533;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1039;166.222486168924;At sea
+-7.30739569299993;55.2895469870001;1534;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1038;94.532879514901;At sea
+-8.37412385199997;54.900571934;1535;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0896;248.028260184944;At sea
+-9.91893667199997;53.920136493;1538;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0900;171.053517385232;At sea
+-8.98690975299996;53.2298972;1539;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1024;122.716289791946;At sea
+-10.191472312;51.9604131820001;1540;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0901;127.733095767389;At sea
+-8.32462607799994;54.8773374090001;1542;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1036;117.501390260692;At sea
+-8.32799492999993;54.8804418920001;1543;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1048;307.054936907546;At sea
+-8.40036756699993;54.9568901710001;1544;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1034;112.172002018874;At sea
+-9.91747932399994;53.9215525490001;1545;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0899;161.915046099976;At sea
+-10.26067706;51.944066837;1546;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1033;137.267338566449;At sea
+-8.54222374399995;54.297029223;1548;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0887;651.118475542695;At sea
+-9.87228945399994;54.0049890000001;1549;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0885;99.4371196926365;At sea
+-9.86599521399995;54.0044463470001;1550;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0886;88.8290291236017;At sea
+-6.12263189499993;54.015462352;1551;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1031;36.586138027831;At sea
+-9.85002551699995;53.973381342;1552;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0892;207.520526395542;At sea
+-8.37319253999993;54.8980985490001;1553;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0894;229.978658369618;At sea
+-8.37687693999993;54.9006827970001;1554;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0895;157.231887130383;At sea
+-8.54921596199995;54.2973459680001;1555;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0888;736.506607543735;At sea
+-8.55635443299997;54.2971190920001;1556;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0889;531.664269773144;At sea
+-9.91874409399998;53.91906435;1557;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0890;88.3689420668334;At sea
+-9.85074619799997;53.9935713950001;1558;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0891;77.3434762334051;At sea
+-9.94398135599994;53.9625726780001;1561;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1029;68.7365223644687;At sea
+-9.95091666199994;53.9722414070001;1563;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0911;156.183162177784;At sea
+-7.48044768499994;55.0814630880001;1567;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1027;271.319787435346;At sea
+-7.49181382399996;55.0431048560001;1569;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1060;58.7164437684059;At sea
+-7.48080530599998;55.049640002;1570;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1035;64.7262162558311;At sea
+-9.65682688699997;53.8930344140001;1572;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1072;51.3111925721979;At sea
+-6.15857759299996;54.036451577;1574;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1071;371.782330531227;At sea
+-7.31777547699994;55.2874654450001;1575;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1070;173.154841516122;At sea
+-8.42904872599996;54.93894599;1576;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1069;265.917988449225;At sea
+-9.66884382099994;53.8834193800001;1578;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0906;211.573091532875;At sea
+-8.39052932799996;54.945394933;1579;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1067;196.338321756046;At sea
+-8.34210917399997;54.8845520290001;1580;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0903;359.379707461693;At sea
+-8.32315801499993;54.884167018;1581;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0904;290.991887155266;At sea
+-8.33270839899996;54.884542923;1582;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0905;448.995889230631;At sea
+-7.57724917199994;52.053417509;1583;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0910;274.13188162406;At sea
+-8.49160320099998;54.769337627;1586;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1064;210.353092530262;At sea
+-7.58983856999993;52.071466512;1589;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0908;1127.48949617834;At sea
+-7.57832041399996;52.0543101320001;1590;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0909;371.745192823569;At sea
+-10.264201514;51.913468235;1591;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0845;43.4978480966947;At sea
+-7.50477239799994;55.1651135990001;1592;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0846;250.12648748929;At sea
+-8.13683728299998;54.6131824500001;1593;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0847;237.267442900471;At sea
+-8.13558376299994;54.6125106050001;1594;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0848;247.821361475154;At sea
+-7.29665985199995;55.2983415210001;1595;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0843;256.042488083837;At sea
+-10.077247756;53.5135775320001;1596;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1049;71.2447554771582;At sea
+-8.14393315999996;54.6241751430001;1599;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0853;92.8427020065678;At sea
+-8.14115458099997;54.6296228030001;1600;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0854;113.513554171387;At sea
+-8.12637443799997;54.6252739720001;1601;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0855;35.3924110424813;At sea
+-7.28911336499993;55.2932804110001;1602;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1073;251.807376535339;At sea
+-8.14017280599995;54.615451448;1603;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0849;113.537186557491;At sea
+-9.61640667599994;53.7889057690001;1604;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0850;333.212040425125;At sea
+-9.60309817799993;53.789662229;1605;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0851;198.027973870081;At sea
+-8.15370016199995;54.631540312;1606;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0852;349.123718889527;At sea
+-7.28628350199995;55.2916612930001;1607;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1059;290.453904644468;At sea
+-7.30062371499997;55.300688644;1608;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0836;242.802661689107;At sea
+-6.96704889299997;52.2046595750001;1610;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0837;437.388962096221;At sea
+-9.68292372699995;53.8903340740001;1611;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0833;127.511038634932;At sea
+-9.69171289799993;53.889684855;1612;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0834;177.566898293206;At sea
+-9.87807270299993;51.6502573070001;1613;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0835;78.6219763793319;At sea
+-7.28505422999996;55.292473493;1614;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1057;177.206878620266;At sea
+-8.46861574099995;54.758198754;1615;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1056;122.316722193802;At sea
+-9.55979578999995;52.6540516270001;1617;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1055;125.435886345767;At sea
+-6.96741793099994;52.203568438;1619;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0838;482.302813387981;At sea
+-6.96631150099995;52.20679039;1620;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0839;358.958967105384;At sea
+-6.96815412699993;52.20139665;1621;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0840;571.599893354816;At sea
+-7.29004219299998;55.293891113;1622;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1054;239.000845672024;At sea
+-9.19149958999998;54.2105888770001;1624;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1053;305.920879435675;At sea
+-7.30705882299998;55.305434259;1625;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1052;66.5852151991238;At sea
+-7.30503497999996;55.3034061610001;1626;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1051;187.385229239903;At sea
+-9.63365140699995;53.7948311260001;1627;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0872;401.456829399458;At sea
+-9.94831317599994;53.984284707;1628;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0874;172.029916663879;At sea
+-9.95153032699994;53.969225614;1629;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0875;62.6642469362865;At sea
+-9.61837296899995;53.7866386590001;1630;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0876;76.2689327043806;At sea
+-8.57535771099998;54.2789719150001;1632;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0882;87.3545143457768;At sea
+-8.40153356299993;54.6308053480001;1633;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_0883;168.484012189065;At sea
+-6.11252333399995;54.0103849660001;1634;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1050;90.7337997028542;At sea
+-7.30237733199993;55.292155318;1635;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Farm;IE_1097;90.3961273693713;At sea
+-7.58189327199995;52.0550684030001;749;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters,Aquatic Food;Polygon centroid;Farm;IE_0980;457.066367545866;At sea
+-7.58881295199996;52.059001376;772;Ireland;n.a.;n.a.;Licensed;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters,Aquatic Food;Polygon centroid;Farm;IE_1010;477.353976883643;At sea
+-8.45993203899997;51.702898621;728;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0486;33.3104468910909;Within the coastline
+-9.73159064199996;51.6862302100001;821;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0261;117.930734052035;At sea
+-9.72771914799995;51.6887100450001;822;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0262;99.9213477633887;At sea
+-8.55513561099997;54.3375453100001;896;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0694;385.905412105289;At sea
+-8.56292041999995;54.3403321850001;902;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0692;161.855142004096;At sea
+-8.56009363299995;54.341403718;903;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0693;64.0213184167337;At sea
+-6.78828155699995;52.239358822;1005;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0547;346.333097270691;At sea
+-6.77598038799994;52.2359547120001;1006;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0548;25.3094339172422;At sea
+-7.58656631799994;52.0704889630001;1007;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0541;1351.51556650443;At sea
+-7.58660556699994;52.0662427520001;1013;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0558;1155.45648988914;At sea
+-7.58658559199995;52.0653974740001;1015;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0549;1084.56192906737;At sea
+-6.78900108599993;52.2398155660001;1016;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0552;295.385755486149;At sea
+-6.77877367099995;52.2334601270001;1017;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0553;25.0298369176745;At sea
+-7.58654740899993;52.0725334420001;1027;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0537;1358.22985133268;At sea
+-7.58302933999994;52.0588158580001;1031;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0533;816.360740922234;At sea
+-7.58380068999998;52.0647080740001;1063;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0575;1150.99863041801;At sea
+-8.13665701199994;54.6220646800001;1064;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0580;88.470066976235;At sea
+-6.14612374799998;54.0342633120001;1076;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0489;634.454248754169;At sea
+-8.13159244999997;54.620277329;1104;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0512;117.146781045164;At sea
+-8.32771203299995;51.764976457;1106;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0522;76.5284118657672;At sea
+-6.15900678199995;54.0380178090001;1117;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0490;475.026388766446;At sea
+-6.14899208399993;54.035306753;1118;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0491;734.466103134622;At sea
+-6.12107788999998;54.019643263;1152;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0398;387.642243060749;At sea
+-6.12609164599996;54.02690992;1153;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0399;247.424599900504;At sea
+-8.14644143199996;54.6267142120001;1239;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0351;357.351044368565;At sea
+-9.93783144499997;53.877660851;1242;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0344;55.7180868854806;At sea
+-9.94309010999996;53.967245942;1265;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0289;147.803925749537;At sea
+-9.66220643699995;51.866770511;1377;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0084;89.7034892508469;At sea
+-9.88638242699994;54.0107432570001;1429;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0042;262.049377306451;At sea
+-8.32854145199997;54.885482235;1437;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0017;296.140687074804;At sea
+-9.92084015099994;53.920150984;1457;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0077;204.168043248819;At sea
+-9.91936020399993;53.9210732180001;1458;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0078;273.812873126767;At sea
+-9.91595813999993;53.92157683;1460;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0081;63.9529174920562;At sea
+-6.80562963099993;52.235290879;1536;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0897;70.1340811399286;At sea
+-6.79902673599997;52.2376283820001;1537;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0898;93.3374010612514;At sea
+-9.92902904699997;53.886062887;1598;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams;Polygon centroid;Farm;IE_0844;103.789044946981;At sea
+-10.120421456;53.5223140460001;735;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Abalone;Polygon centroid;Farm;IE_0715;87.5142866875466;Within the coastline
+-8.31345167399996;55.0610967110001;992;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Mussels;Polygon centroid;Farm;IE_0663;52.8805165693308;At sea
+-8.31917432199998;55.0548533630001;993;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Mussels;Polygon centroid;Farm;IE_0664;39.7978766211679;At sea
+-9.56685588599993;53.8572283760001;1128;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Mussels;Polygon centroid;Farm;IE_0406;71.0045507987456;At sea
+-9.56777323499995;53.8614394620001;1133;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Mussels;Polygon centroid;Farm;IE_0403;22.5315674823319;At sea
+-9.57115125099995;53.8603170550001;1134;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Mussels;Polygon centroid;Farm;IE_0404;25.7733205765314;At sea
+-9.56485264699995;53.8569393720001;1618;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Mussels;Polygon centroid;Farm;IE_0842;80.7628785355832;At sea
+-9.56997319399994;53.8609700800001;1303;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Mussels;Polygon centroid;Farm;IE_0189;14.0750995775028;At sea
+-9.56225164499995;53.8560304690001;727;Ireland;n.a.;n.a.;Licensed;Specialised (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Mussels;Polygon centroid;Farm;IE_0405;13.0281437121916;Within the coastline
+-9.94665050599997;54.152307648;1263;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Clams,Mussels, Winkles;Polygon centroid;Farm;IE_0234;89.738435656262;At sea
+-7.47317521699995;55.076648252;747;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Oysters,Mussels;Polygon centroid;Farm;IE_0743;353.887915958734;At sea
+-9.84698925599997;52.123723893;926;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Oysters,Mussels;Polygon centroid;Farm;IE_0721;215.337580088095;At sea
+-9.87642196199994;52.1285602350001;958;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Oysters,Mussels;Polygon centroid;Farm;IE_0627;979.483523661259;At sea
+-7.88570803399995;51.898467542;1198;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Oysters,Mussels;Polygon centroid;Farm;IE_0336;478.508116223931;At sea
+-9.38841834799996;51.5048993020001;1321;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Oysters,Mussels;Polygon centroid;Farm;IE_0175;8.60399261753092;At sea
+-8.95981615899996;53.1621052350001;1409;Ireland;n.a.;n.a.;Licensed;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Oysters,Mussels;Polygon centroid;Farm;IE_0129;156.773743744883;At sea
+-7.50082521499996;55.0890763850001;1451;Ireland;n.a.;n.a.;Licensed;Specialised (other);n.a.;n.a.;Oyster;n.a.;Oysters,Mussels;Polygon centroid;Farm;IE_0068;505.533713199925;At sea
+-10.0154642539999;51.6757925580001;771;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Mussels,Other Shellfish,Sea weeds;Polygon centroid;Farm;IE_0976;295.081473527652;At sea
+-10.350463567;52.113577193;1025;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Mussels,Urchins,Seaweed;Polygon centroid;Farm;IE_0527;311.380890184647;At sea
+-9.74271481499994;52.5830187030001;1127;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Scallops;Polygon centroid;Farm;IE_0502;197.58390389752;At sea
+-9.87535437699995;51.641254077;939;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters,Scallops,Seaweed;Polygon centroid;Farm;IE_0706;33.4228200830109;At sea
+-9.61867210799994;51.598200983;1616;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Sea Urchins,Oysters,Abalone;Polygon centroid;Farm;IE_0841;44.575517406656;At sea
+-8.33072999999996;54.6176489810001;1519;Ireland;n.a.;n.a.;Licensed;Mixed (other);n.a.;n.a.;Oyster;n.a.;Seaweed,Oysters,Clams,Urchins;Polygon centroid;Farm;IE_1101;1180.59594136052;At sea
+-2.23308028699995;47.1451666400001;6858;France;n.a.;La Pree;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0117;11.3299093467;Within the coastline
+-1.62261758999995;49.0789274380001;6866;France;n.a.;Gouville - Blainville;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0093;892.075416466;At sea
+-3.45335308199998;47.647425803;6886;France;n.a.;Zone du large - Ile de Groix - Zone de parcs;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0201;256.020580191;At sea
+-1.62151664799995;49.0759334430001;6889;France;n.a.;Blainville;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0031;818.990176147;At sea
+-1.25174796799996;46.282937319;6890;France;n.a.;COTE DE L'AIGUILLON;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0185;845.133802734;At sea
+-1.63105737899997;49.1008567050001;6892;France;n.a.;Gouville;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0080;1532.28261512;At sea
+-1.21683350099994;45.9476049800001;6893;France;n.a.;Baie de Bellevue;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0027;999.641039623;At sea
+-1.36446608599994;46.262336901;6895;France;n.a.;Sud du Pertuis Breton;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0024;5089.020067;At sea
+-1.30867100099994;46.0348534670001;6896;France;n.a.;Ouest du Pertuis d'Antioche;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0074;3136.6969901;At sea
+-1.64660427399997;49.2166102790001;6900;France;n.a.;Saint Germain sur Ay;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0010;569.963631117;At sea
+-1.71228981499996;49.305138674;6901;France;n.a.;Saint Remy des Landes;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0128;816.722699148;At sea
+-1.19979191899995;45.9287994040001;6908;France;n.a.;Côte nord est Oléron;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0193;2141.20704428;At sea
+-1.18179490499995;46.22513486;6909;France;n.a.;Est du Pertuis Breton ostreicole;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0122;394.683005411;At sea
+-1.66948826899994;49.2590656770001;6911;France;n.a.;Bretteville sur Ay;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0064;512.081945195;At sea
+-1.15597858099994;46.279303988;6913;France;n.a.;Estuaire de la Sevre Niortaise;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0205;2248.19109209;At sea
+-1.11505610799998;45.9244457360001;6925;France;n.a.;Estrée;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0081;2460.97312982;At sea
+-2.02351234299994;47.05819776;6938;France;n.a.;Nord de la baie de Bourgneuf;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0208;1070.44757205;At sea
+-1.17392088999998;46.2796635920001;6948;France;n.a.;ESTUAIRE DE LA SEVRE NIORTAISE;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0100;2344.4777581;At sea
+-2.12917619299998;46.8962731460001;6949;France;n.a.;SUD DU GOIS : FROMENTINE;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0120;338.291672424;At sea
+-3.31744029399994;47.7492771240001;6957;France;n.a.;Lorient - Le Blavet aval;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0099;382.073475115;At sea
+-1.18795063099998;46.2425257840001;6958;France;n.a.;Est du Pertuis Breton mytilicole;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0139;2263.89947533;At sea
+-2.22106163599994;47.1562617170001;6961;France;n.a.;La Tara;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0174;5.32844883787;At sea
+-1.11733096799998;45.9628850650001;6979;France;n.a.;Les Palles;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0008;126.068049254;At sea
+-1.10637843999996;49.3823586520001;6991;France;n.a.;Grandcamp-Maisy Ouest et Gefosse-Fontenay;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0165;1008.39807557;At sea
+-1.60477142999997;49.1508575080001;7003;France;n.a.;Pirou Sud;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0103;622.266079767;At sea
+-2.48792232699998;47.443199807;7011;France;n.a.;Baie de Pont Mahe;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0202;213.416209137;At sea
+-2.20248461699993;47.1597125660001;7020;France;n.a.;La Plaine sur mer;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0164;97.0122596003;At sea
+-1.14368687099994;46.0395747800001;7022;France;n.a.;Baie d'Yves - Filières Pertuis Antioche;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0096;2243.3187176;At sea
+-2.59351945999992;47.4225215930001;7023;France;n.a.;Ile Dumet;n.a.;Mussels-Oysters;n.a.;n.a.;Oyster;n.a.;Mussels, Oysters;Polygon centroid;Production area;FR_0115;2101.10058626;At sea
+-1.28968915699994;46.3119754250001;6833;France;n.a.;RIVIERE DU LAY;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0006;28.6471727096;Within the coastline
+-2.47341168599996;47.5041742970001;6887;France;n.a.;Estuaire de la Vilaine - Embouchure de la Vilaine;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0029;891.47708878;At sea
+-2.20168713099997;46.9777903120001;6917;France;n.a.;BAIE DE BOURGNEUF - NORD-OUEST DU GOIS;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0129;1064.60075189;At sea
+-2.63171036799997;47.51714622;6932;France;n.a.;Rivière de Penerf;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0138;44.7973939066;At sea
+-2.45363953699996;47.418805546;6955;France;n.a.;Traict de Pen Bé;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0116;314.092131308;At sea
+-2.45507612199998;47.4208552590001;6956;France;n.a.;Traict de Pen Bé Nord;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0184;358.69631868;At sea
+-2.65269445899997;47.5087458080001;6962;France;n.a.;Embouchure de la riviere de Penerf;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0211;708.637991254;At sea
+-3.02815268199993;47.6169012240001;6965;France;n.a.;Riviere de Crach - Kerlearec;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0187;20.3236744881;At sea
+-2.48072512999994;47.500916864;6981;France;n.a.;Estuaire de la Vilaine - Vilaine;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0051;561.039825341;At sea
+-2.61727581099996;47.5217973420001;7010;France;n.a.;Riviere de Penerf;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0003;313.627589551;At sea
+-2.45117569799993;47.4159242900001;7029;France;n.a.;Traict de Pen Bé Sud;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams;Polygon centroid;Production area;FR_0101;278.30832312;At sea
+-2.49735866499998;47.3048438930001;6933;France;n.a.;Nord Traict du CROISIC;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams, Cockles;Polygon centroid;Production area;FR_0020;461.741230956;At sea
+-3.02159671799996;47.5933565350001;6947;France;n.a.;Riviere de Crach - Les Presses;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams, Cockles;Polygon centroid;Production area;FR_0018;210.405187937;At sea
+-2.49733956799997;47.294933642;6990;France;n.a.;Sud Traict du CROISIC;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams, Cockles;Polygon centroid;Production area;FR_0034;637.751102828;At sea
+-2.49734939699994;47.300034506;6992;France;n.a.;Traict du Croisic;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams, Cockles;Polygon centroid;Production area;FR_0012;631.40644776;At sea
+-3.15625883099995;47.715721452;7012;France;n.a.;Riviere d'Etel - La Cote;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams, Cockles;Polygon centroid;Production area;FR_0086;2.2480288699;At sea
+-3.18327021699997;47.690082782;7021;France;n.a.;Riviere d'Etel - Beg er Vil;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams, Cockles;Polygon centroid;Production area;FR_0017;268.220717191;At sea
+-2.07932973499993;46.97329388;6967;France;n.a.;BAIE DE BOURGNEUF - NORD-EST DU GOIS;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Clams, Cockles, Other;Polygon centroid;Production area;FR_0159;2572.3060774;At sea
+-2.21912132499995;46.983335514;7004;France;n.a.;SUD JETEE DES ILEAUX;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Mussels, Oysters, Other;Polygon centroid;Production area;FR_0140;706.43752713;At sea
+0.780231879000041;49.876523064;5591;France;n.a.;Veules les Roses;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0019;337.139624709;At sea
+-1.19900199199998;45.86621681;6825;France;n.a.;Oulme;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0044;98.3455755615;Within the coastline
+-1.21491816999998;45.906421493;6826;France;n.a.;Etier neuf;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0105;37.6348606887;Within the coastline
+-1.21033177399994;45.8625769000001;6827;France;n.a.;Grand Village;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0155;624.90902524;Within the coastline
+-1.23656887099997;45.9462263070001;6828;France;n.a.;Nord Oléron;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0001;207.829166159;Within the coastline
+-1.23116003099994;45.923732794;6829;France;n.a.;La Beaudissière;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0082;76.5637379284;Within the coastline
+-1.48589184299993;46.2022092020001;6830;France;n.a.;Ouest Ile de Ré;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0088;118.816760941;Within the coastline
+-1.11961090599993;45.7924432840001;6835;France;n.a.;Lindron;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0127;1236.63435249;Within the coastline
+-1.09594838299995;45.775337258;6838;France;n.a.;Seudre aval;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0199;3820.76720471;Within the coastline
+-1.07417520099995;45.7536502020001;6839;France;n.a.;Etaules;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0054;6702.53706966;Within the coastline
+-1.07191050199998;46.053232285;6841;France;n.a.;Yves;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0026;132.37893827;Within the coastline
+-1.15453662899995;45.8436151350001;6842;France;n.a.;Bourcefranc;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0065;174.68214194;Within the coastline
+-1.02210344899993;45.7531880940001;6845;France;n.a.;Marais de Nieulle sur Seudre;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0151;9979.45045075;Within the coastline
+-1.64071885899995;46.4359437520001;6848;France;n.a.;CHENAUX DU PAYRE;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0180;1152.25708072;Within the coastline
+-1.13462339999995;45.808936567;6850;France;n.a.;Les Faulx;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0197;168.387952437;Within the coastline
+-1.10349329399997;45.8641558370001;6851;France;n.a.;Mérignac;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0041;773.118028839;Within the coastline
+-1.03970623699996;45.739852951;6852;France;n.a.;Seudre amont;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0192;9707.65322868;Within the coastline
+-1.07950350399994;45.872815449;6854;France;n.a.;Brouage;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0161;1824.70584424;Within the coastline
+-1.10918869999995;45.771272464;6855;France;n.a.;Coux;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0154;3451.3505726;Within the coastline
+-1.05060380299994;45.738096881;6860;France;n.a.;Chaillevette;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0097;9220.78744989;Within the coastline
+-1.13104847799997;45.7819906760001;6861;France;n.a.;Route neuve;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0190;1542.35161852;Within the coastline
+-0.99419243799997;45.713971771;6862;France;n.a.;Seudre-amont;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0207;10566.6555751;Within the coastline
+-1.11320618699995;45.780546273;6863;France;n.a.;Luzac;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0070;2445.56504569;Within the coastline
+-1.29298054599997;46.140678904;6869;France;n.a.;Sainte-Marie;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0049;487.548960973;At sea
+-1.84945158999994;48.6706622880001;6879;France;n.a.;Stockage Cancale;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0050;147.614924669;At sea
+-2.70445578899995;47.592561936;6882;France;n.a.;Golfe du Morbihan - Riviere de Noyalo;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0092;251.423531729;At sea
+-1.16407581299995;46.013219828;6883;France;n.a.;Ile d'Aix;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0039;459.604581768;At sea
+-1.12281626699996;45.9990077410001;6891;France;n.a.;Fouras;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0004;386.672359904;At sea
+-1.13676413699994;45.9004836710001;6897;France;n.a.;Mérignac - Lamouroux;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0150;3349.53426856;At sea
+-1.16462999399994;45.8193105820001;6904;France;n.a.;Bourgeois - Barat;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0163;1634.84252888;At sea
+-1.33192058399993;46.197786045;6905;France;n.a.;La Flotte;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0157;342.315036625;At sea
+-1.15473046099993;45.8703729540001;6906;France;n.a.;Daire;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0179;866.587385408;At sea
+-2.62951647399996;47.50197891;6914;France;n.a.;Entre la riviere de Penerf et l'estuaire de la Vilaine;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0013;251.822677848;At sea
+-1.47802769199996;46.2241864370001;6915;France;n.a.;Fier d'Ars;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0071;590.161694961;At sea
+-2.17115655099997;46.9044798620001;6922;France;n.a.;LA FANDIERE - LA FOSSE;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0147;461.758272181;At sea
+-1.19078034099994;45.8377051750001;6923;France;n.a.;Saint Trojan;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0177;751.913607415;At sea
+-1.17442404899992;45.886060813;6946;France;n.a.;Ors - la Casse;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0076;1088.04258651;At sea
+-1.48266713299995;46.1967099710001;6959;France;n.a.;La Martray;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0047;524.222262158;At sea
+-1.16147126199996;45.819728781;6966;France;n.a.;Bourgeois;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0173;1422.24090217;At sea
+-1.14184315099993;46.118139612;6972;France;n.a.;Baie d'Aytré;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0107;878.191643716;At sea
+-1.18445621899997;45.797540498;6973;France;n.a.;Ronce - Perquis;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0191;589.223598952;At sea
+-1.10587801699995;46.0578301090001;6975;France;n.a.;Angoulins-Chatelaillon;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0087;970.250682277;At sea
+-1.08384965499994;49.3924055680001;6978;France;n.a.;Grandcamp-Maisy Est;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0043;632.26260414;At sea
+-2.62609913299997;47.5295387900001;6983;France;n.a.;Riviere de Penerf - Etier de Sainte Anne;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0038;119.54622437;At sea
+-3.10272703799995;47.5512230890001;6985;France;n.a.;Baie de Quiberon - Baie de Quiberon;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0022;1466.01103329;At sea
+-1.27433506999995;46.1686468990001;6986;France;n.a.;Rivedoux;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0035;592.238437417;At sea
+-2.23224258899995;46.9583851180001;6993;France;n.a.;PAILLARD - LA GUERINIERE;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0053;812.839920203;At sea
+-0.553460031999975;49.3503105240001;6996;France;n.a.;Meuvaines et Ver sur mer;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0216;452.397856478;At sea
+-1.19902743499995;45.858260661;6999;France;n.a.;Ade-Menson;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0181;306.529309225;At sea
+-1.18071881499998;45.799554974;7000;France;n.a.;Ronce les Bains;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0094;700.481059246;At sea
+-1.40161635199996;46.2187209250001;7005;France;n.a.;La Moulinatte;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0067;1138.75846866;At sea
+-1.21167228499996;45.6844854070001;7008;France;n.a.;Bonne Anse;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0111;516.049322501;At sea
+-1.84253760699994;48.6650755970001;7026;France;n.a.;Cancale;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0021;921.184399094;At sea
+-1.25086950799994;44.589224657;7030;France;n.a.;Arguin;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0224;541.506871265;At sea
+-1.17605493699995;44.6820650170001;7031;France;n.a.;Intra-bassin;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0225;1322.04874208;At sea
+-1.11376875799994;44.6656555870001;7032;France;n.a.;La Matelle;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0227;2008.73173478;At sea
+-1.10585416599997;44.696979535;7033;France;n.a.;Gorp;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0228;2930.27554347;At sea
+0.781776695000076;49.8771709910001;7034;France;n.a.;Etretat - Le Treport;n.a.;Oysters;n.a.;n.a.;Oyster;n.a.;Oysters;Polygon centroid;Production area;FR_0015;362.757922719;At sea
+-2.89286268699993;47.5900097420001;6840;France;n.a.;Locmiquel - Berder - Kerdelan;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0183;192.235945796;Within the coastline
+-2.83342290899998;47.580573977;6885;France;n.a.;Golfe du Morbihan;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0171;730.461188538;At sea
+-2.94565815799996;47.588374473;6894;France;n.a.;Riviere d'Auray aval et Anse de Baden;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0098;545.448831179;At sea
+-2.82966222999994;47.592958842;6910;France;n.a.;Ile aux Moines - Ile d'Arz;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0030;96.5181536626;At sea
+-2.95161112399995;47.6208261400001;6918;France;n.a.;Riviere d'Auray - Le Rohello;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0134;173.629104237;At sea
+-3.10794711099993;47.577636012;6927;France;n.a.;Baie de Quiberon - Baie de Plouharnel;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0137;118.872748407;At sea
+-2.95659192399995;47.559106399;6945;France;n.a.;Anse de Locmariaquer - Le Breneguy;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0028;102.282827098;At sea
+-2.84908718599996;47.6151248420001;6969;France;n.a.;Golfe du Morbihan Nord;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0068;235.734926357;At sea
+-2.76236699699996;47.5977719370001;7013;France;n.a.;Golfe du Morbihan Est;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0112;610.699595514;At sea
+-2.77123677699996;47.6149904970001;7016;France;n.a.;Golfe du Morbihan - Iles de Boede et Boedic;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams;Polygon centroid;Production area;FR_0091;152.641873879;At sea
+-2.82555326399995;47.5588230290001;6960;France;n.a.;Golfe du Morbihan Sud;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams,;Polygon centroid;Production area;FR_0188;217.577328165;At sea
+-2.98816863899998;47.5750307060001;6943;France;n.a.;Riviere de St Philibert;n.a.;Mixed (other);n.a.;n.a.;Oyster;n.a.;Oysters, Clams, Cockles;Polygon centroid;Production area;FR_0062;275.714559704;At sea
