@@ -1,56 +1,94 @@
-# North-Sea Oyster Connectivity
+# Oyster Disease Dispersal
 
-Track simulated larvae of oysters and virusses in the North Sea.
+This repository contains the necessary notebooks and bash scripts to reproduce the Lagrangian dispersal simulations and connectivity analysis from the manuscript *Far from infection? Simulating disease dispersal risk for European flat oyster restoration*
 
-## Workflows
+Schmittmann L.<sup>1</sup>, Rath W.<sup>1</sup>, Bean T. P., Busch K., Gottschalk J., Mock, L.-C., Nascimento Schulze J. C., Sas H., and Biastoch A.
 
-### Clone the repository
+<sup>1</sup>contributed equally
 
-```shell
-$ git clone https://github.com/geomar-od-lagrange/2022_north-sea_oysters.git
-$ cd 2022_north-sea_oysters/
-```
+## Structure of repository
 
-### Run experiments / develop code
+### data/config
 
-The environment is specified in <https://github.com/geomar-od-lagrange/parcels-container>.
+- ```Bonamia_diseaserecords.csv``` locations of diseased sites
 
-More on Containers: https://github.com/ExaESM-WP4/Containers-for-Scientific-Computing
+- ```Ostreaedulis_aquaculture_EMODnet.csv``` locations of aquaculture sites
 
-#### Locally (e.g on you laptop)
+- ```hex_to_restoration_site.csv``` hex IDs mapped to restoration sites
 
-With [Docker installed](https://docs.docker.com/get-docker/), you can run the latest stable version with:
-```shell
-$ docker pull quay.io/willirath/parcels-container:2021.09.29-09ab0ce
-$ docker run -p 8888:8888 --rm -it -v $PWD:/work -w /work quay.io/willirath/parcels-container:2021.09.29-09ab0ce jupyter lab --ip=0.0.0.0
-```
+- ```historical_sites.csv``` locations of historical sites
 
-Once the container is up and running, connect to the link starting with `http://127.0.0.1...` that is displayed in the terminal.
-You should see a JuptyerLab with the contents of this repository displayed in the left panel.
+- ```restoration_sites_update.csv``` locations of restoration sites
 
-#### On NESH
+### notebooks/manuscript
 
-##### Non-interactive
+- ```currents.ipynb``` notebook to create Figure 3
 
-We can use the singularity container runtime. But we mostly run it headless / non-interactive.
+- ```depths_regression.ipnb``` notebook to create Figure S3
 
-See [this job-script](https://github.com/geomar-od-lagrange/2022_north-sea_oysters/blob/main/job_scripts/run_station_plot.sh) for an example of how we use [Papermill](https://papermill.readthedocs.io/) to execute this [example notebook](https://github.com/geomar-od-lagrange/2022_north-sea_oysters/blob/main/notebooks/exploratory/2022-07-12_add-and-check-station-data.ipynb).
+- ```dispersalkernels.ipynb``` notebook to create Figure 4
 
-##### Interactive
+**/05m/**
 
-First, see [this guide](https://git.geomar.de/python/jupyter_on_HPC_setup_guide#wrapped-in-a-script) for learning how to connect to a Jupyter session that is running remotely.
+- ```010_lagrangian_experiment_05m.ipynb``` notebook to run particle dispersal simulations with Oceanparcels at 5 m depth
 
-To start up a Jupyterlab in a Container on Nesh, run
-```shell
-$ module load singularity/3.5.2
-$ singularity pull --disable-cache --dir "${PWD}" docker://quay.io/willirath/parcels-container:2022.07.14-801fbe4
-$ singularity run -B /sfs -B /gxfs_work1 -B $PWD:/work --pwd /work parcels-container_2022.07.14-801fbe4.sif bash -c ". /opt/conda/etc/profile.d/conda.sh && conda activate base && jupyter-lab --ip=0.0.0.0"
-```
-and wait for two URLs to appear. Copy the URL that does _not_ start with `localhost` or `127.0.0.1` and use it in [this step](https://git.geomar.de/python/jupyter_on_HPC_setup_guide#wrapped-in-a-script).
+- ```010_lagrangian_experiment_05m.sh``` bash script to execute ```010_lagrangian_experiment_05m.ipynb```
 
-## Download data
+- ```011_save_trajectories_to_zarr_05m.ipynb``` notebook to save particle trajectories to .zarr format
 
-Download high resolution data from Copernicus:
-```shell
-$ wget --user=username --password=******* -r -np -nH -l 4 --cut-dirs=2 "ftp://username@nrt.cmems-du.eu/Core/NORTHWESTSHELF_ANALYSIS_FORECAST_PHY_004_013/MetO-NWS-PHY-hi-CUR"
-```
+- ```020_connectivity_matrix_05m.ipynb``` notebook to construct connectivity matrix for 5 m
+
+- ```030_aggregate_biodata_05m.ipynb``` notebook to aggregate biodata to connectivity matrix (locations of diseased, restoration, aquaculture, historic sites)
+
+- ```035_aggregate_physical_gridded_data_05m.ipynb``` notebook to aggregate physical data to connectivity matrix (depth, water fraction)
+
+- ```040_connectivity_analysis_file_preparation_05m.ipynb``` notebook to create subsets for 0-7, 7-14 and 7-28 days. These files are deposited in an open repository (link see below)
+
+- ```040.1_connectivity_analysis_relative_concentrations_05m.ipynb``` notebook to create Figure 5 and S2
+
+- ```040.1_connectivity_analysis_risk_relative_concentrations_05m.ipynb``` notebook to create Figure 9
+
+- ```041_rest-sites_risk-analsysis_05m.ipynb``` notebook to create Figure 8
+
+- ```042.1_risk-analsysis_highlyconnected_05m.ipynb``` notebook to create Figure 6 and 7
+
+**/10m/**
+
+- ```010_lagrangian_experiment_10m.ipynb``` notebook to run particle dispersal simulations with Oceanparcels at 10 m depth
+
+- ```010_lagrangian_experiment_10m.sh``` bash script to execute ```010_lagrangian_experiment_10m.ipynb```
+
+- ```011_save_trajectories_to_zarr_10m.ipynb``` notebook to save particle trajectories to .zarr format
+
+- ```020_connectivity_matrix_10m.ipynb``` notebook to construct connectivity matrix for 10 m
+
+- ```030_aggregate_biodata_10m.ipynb``` notebook to aggregate biodata to connectivity matrix (locations of diseased, restoration, aquaculture, historic sites)
+
+- ```035_aggregate_physical_gridded_data_10m.ipynb``` notebook to aggregate physical data to connectivity matrix (depth, water fraction)
+
+- ```040_connectivity_analysis_file_preparation_10m.ipynb``` notebook to create subsets for 0-7, 7-14 and 7-28 days. These files are deposited in an open repository (link see below)
+
+- ```040.1_connectivity_analysis_relative_concentrations_10m.ipynb``` notebook to create Figure S1a
+
+**/15m/**
+
+- ```010_lagrangian_experiment_15m.ipynb``` notebook to run particle dispersal simulations with Oceanparcels at 15 m depth
+
+- ```010_lagrangian_experiment_15m.sh``` bash script to execute ```010_lagrangian_experiment_15m.ipynb```
+
+- ```011_save_trajectories_to_zarr_15m.ipynb``` notebook to save particle trajectories to .zarr format
+
+- ```020_connectivity_matrix_15m.ipynb``` notebook to construct connectivity matrix for 15 m
+
+- ```030_aggregate_biodata_15m.ipynb``` notebook to aggregate biodata to connectivity matrix (locations of diseased, restoration, aquaculture, historic sites)
+
+- ```035_aggregate_physical_gridded_data_15m.ipynb``` notebook to aggregate physical data to connectivity matrix (depth, water fraction)
+
+- ```040_connectivity_analysis_file_preparation_15m.ipynb``` notebook to create subsets for 0-7, 7-14 and 7-28 days. These files are deposited in an open repository (link see below)
+
+- ```040.1_connectivity_analysis_relative_concentrations_15m.ipynb``` notebook to create Figure S1b
+
+
+## Data deposition
+
+Aggregated connectivity matrices are deposited here here: https://hdl.handle.net/20.500.12085//11cc2d8f-4039-49d3-aaab-04ce0fb23190
