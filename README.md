@@ -91,4 +91,6 @@ Schmittmann L.<sup>1</sup>, Rath W.<sup>1</sup>, Bean T. P., Busch K., Gottschal
 
 ## Data deposition
 
-Aggregated connectivity matrices are deposited here here: https://hdl.handle.net/20.500.12085//11cc2d8f-4039-49d3-aaab-04ce0fb23190
+Aggregated connectivity matrices are deposited here here: 
+
+https://hdl.handle.net/20.500.12085//11cc2d8f-4039-49d3-aaab-04ce0fb23190
