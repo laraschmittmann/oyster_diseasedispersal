@@ -1,5 +1,7 @@
 # Oyster Disease Dispersal
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17061788.svg)](https://doi.org/10.5281/zenodo.17061788)
+
 This repository contains the necessary notebooks and bash scripts to reproduce the Lagrangian dispersal simulations and connectivity analysis from the manuscript *Far from infection? Simulating disease dispersal risk for European flat oyster restoration*
 
 Schmittmann L.<sup>1</sup>, Rath W.<sup>1</sup>, Bean T. P., Busch K., Gottschalk J., Mock, L.-C., Nascimento Schulze J. C., Sas H., and Biastoch A.
